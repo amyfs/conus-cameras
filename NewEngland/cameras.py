@@ -194,5 +194,5 @@ cameras = [{"Id":"ST N 12.4 CCTV AX T","HashId":"568beee1cb91e9ee3886d65c19e4c60
 
 def list_cameras():
     for item in cameras:
-        yield {"description": item["Name"], "geo": [item["Latitude"], item["Longitude"]], "id": item["HashId"], "format": "http://assets.newengland511.org/cctv/{id}.jpg"}
+        yield {"description": item["Name"], "geo": [item["Latitude"], item["Longitude"]], "id": item["HashId"], "format": item["ImageUrl"]}
  

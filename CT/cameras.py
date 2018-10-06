@@ -288,4 +288,4 @@ cameras = [{"itemId":"404296--1","location":[41.823175,-72.501513],"zindex":0,"i
 
 def list_cameras():
     for item in cameras:
-        yield {"description": "", "geo": item["location"], "id": item["itemId"], "format": "https://cttravelsmart.org/map/Cctv/{id}"}
+        yield {"description": "", "geo": item["location"], "id": item["itemId"], "format": "https://cttravelsmart.org/map/Cctv/{}".format(item["itemId"])}
