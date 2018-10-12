@@ -14,9 +14,23 @@ from SC import cameras as SC
 from GA import cameras as GA
 from FL import cameras as FL
 from OH import cameras as OH
+from KY import cameras as KY
+from TN import cameras as TN
+from AL import cameras as AL
+from MI import cameras as MI
+from IN import cameras as IN
+from MO import cameras as MO
+from MN import cameras as MN
+from MS import cameras as MS
+from IA import cameras as IA
+from IL import cameras as IL
+from AR import cameras as AR
+from WI import cameras as WI
+from LA import cameras as LA
+from ND import cameras as ND
 
 def main():
-    for entry in [newengland,MA,NY,RI,CT,PA,NJ,MD,DE,WV,VA,NC,SC,GA,FL,OH]:
+    for entry in [newengland,MA,NY,RI,CT,PA,NJ,MD,DE,WV,VA,NC,SC,GA,FL,OH,KY,TN,AL,MI,IN,MO,MN,MS,IA,IL,AR,WI,LA,ND]:
         print(entry.list_cameras().__next__())
 
 if __name__ == "__main__":
