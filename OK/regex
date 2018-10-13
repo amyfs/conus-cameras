@@ -1,0 +1,4 @@
+be sure to also move the camera lines into their own file.
+
+find: CameraArray\[.+\] = new Camera\((.+),(.+),(.+),(.+),(.+),(.+),(.+),(.+),(.+),(.+),(.+),(.+),(.+)\)
+replace: {"image_file": $1, "x": $2, "y": $3, "label": $4, "dir": $5, "lat": $6, "lon": $7, "north": $8, "south": $9, "east": $10, "west": $11, "id": $12, "valid": $13},

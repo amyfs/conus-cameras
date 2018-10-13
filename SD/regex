@@ -1,0 +1,9 @@
+convert data into object
+
+find: markers[\w\W\n]+?\.Point\((.+)\),([\w\W\n]+?)\);
+replace: {points: [$1], data: $2}
+
+remove non-camera objects
+
+find: {"points":[\w\W\n]+?"icontype": "[^cam].+"[\w\W\n]+?},
+replace: 
