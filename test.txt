@@ -1,0 +1,90 @@
+AL.cameras
+{'description': 'I-20/59 / Arkadelphia Rd (Exit 123)', 'geo': [33.521831999999996, -86.851024], 'id': 'BHM-CAM-003', 'format': 'http://inetc2c.dot.state.al.us/snapshots/BHM-CAM-003.jpg'}
+AZ.cameras
+{'description': 'MED I-10 PHOENIX', 'geo': ['-112.229339006', '33.462459035'], 'id': 1, 'format': 'http://www.az511.com/Images/cameraimages/cameras/camera002.jpg'}
+CO.cameras
+{'geo': ['36.999165', '-104.482887'], 'description': 'I-25  001.00 SB : 0.35 mi N of Raton Pass (LV)', 'id': '10789', 'format': ['i.cotrip.org/dimages/camera?imageURL=liveview/I25SummitRatonPassNorth.jpg', 'i.cotrip.org/dimages/camera?imageURL=liveview/I25SummitRatonPassSouth.jpg', 'i.cotrip.org/dimages/camera?imageURL=liveview/I25SummitRatonPassRoadSurface.jpg']}
+DE.cameras
+{'description': 'W NORTH STREET @ WEST DOVER CONNECTOR', 'geo': [39.153362, -75.542102], 'id': 'KCAM002', 'format': 'rtmpt://167.21.72.35:80/live/KCAM002.stream'}
+GA.cameras
+{'description': 'SR 155 / Flat Shoals Rd : Clifton Springs Rd / Columbia Dr', 'geo': ['-84.260600', '33.692992'], 'id': 'cctv_13666', 'format': 'rtsp://vss15od.dot.ga.gov:80/cl/dek-cam-312.stream'}
+ID.cameras
+{'description': 'Shoshone County Line', 'geo': [46.97356, -116.27587], 'id': 1, 'format': ['http://birice.vaisala.com/photos/03B5969E_06A3B6F4_CAM1.jpg', 'http://birice.vaisala.com/photos/03B5969E_06A3B6F4_CAM2.jpg']}
+IN.cameras
+{'description': 'Mile 36.6 I-69 / Binford Blvd', 'geo': [39.898011123116696, -86.05923373461162], 'id': 1, 'format': ['http://content.trafficwise.org/cctv/465-036-6-2569.jpg']}
+KY.cameras
+{'description': 'I-24 MP 9', 'geo': [37.027055, -88.61358], 'id': None, 'format': 'http://rwis.kytc.ky.gov/itscams/D01/current_0240109.jpg'}
+MA.cameras
+{'description': 'Road MHRD-WB-S. Boston-@ W. Service Rd', 'geo': [42.346335, -71.040483], 'id': '1102--1', 'format': 'https://mass511.com/map/Cctv/1102--1'}
+MD.cameras
+{'description': 'I-895 N of Baltimore Harbor Tunnel (C036) MP 10.6', 'geo': [39.266167, -76.56108], 'id': '0b017ae1019100e300441a366e230214', 'format': 'rtmp://170.93.143.139:1935/rtplive/0b017ae1019100e300441a366e230214'}
+MN.cameras
+{'description': 'NB @ Co Rd 60', 'geo': [44.681663, -93.29323675989127], 'id': 1, 'format': ['https://video.dot.state.mn.us/video/image/metro/C602']}
+MS.cameras
+{'description': 'I-55 at Lakeland Dr', 'geo': [32.33378, -90.16269], 'id': 'camsite_1', 'format': 'https://streamingjxn2.mdottraffic.com/thumbnail?application=rtplive&streamname=010406.stream&size=352x240&format=jpg&fitmode=stretch'}
+NC.cameras
+{'description': 'I-40 Exit 270 - US 15 - 501', 'geo': [-78.99890899658203, 35.95077400904293], 'id': 5, 'format': 'http://tims.ncdot.gov/tims/cameras/viewimage.ashx?id=15-501-i-40.jpg'}
+NE.cameras
+{'description': 'Scale E of Lincoln', 'geo': [40.92795758689308, -96.449249], 'id': 1, 'format': ['http://www2.dor.state.ne.us/webcams/newImages/vid-001080416-00-01.jpg']}
+NJ.cameras
+{'description': 'I-295 at I-195', 'geo': ['40.1842', '-74.722203'], 'id': '12910', 'format': 'rtmp://199.20.69.10/live/WF05-3340-4D4A-9A9C-9469_nj'}
+NV.cameras
+{'description': None, 'geo': ['36.158649', '-115.147743'], 'id': 'TL-103073', 'format': 'http://imageserver.511nv.com/SnapShot/320x240/TL-103073.jpg'}
+OH.cameras
+{'description': 'Broad St at 3rd St.  This is a Pan/Tilt/Zoom camera.  The camera view direction is variable and is indicated in the top left corner of this image (N, S, E, W, NE, NW, SE, SW).  If this camera image is not currently updating or displaying properly, City of Columbus personnel are aware of the situation and are working to address the issue.', 'geo': [39.962632, -82.99819], 'id': 'ID000000000000000000000000000221', 'format': ['http://cmhimg01.dot.state.oh.us/images/CMH/Broad-Third.jpg']}
+OR.cameras
+{'description': 'US101 at Astoria - ODOT District Office', 'geo': [46.18785, -123.85347], 'id': 392, 'format': 'https://tripcheck.com/RoadCams/cams/AstoriaUS101MeglerBrNB_pid392.jpg'}
+RI.cameras
+{'description': 'US-1 / RI-78', 'geo': [41.35746, -71.807365], 'id': '3559', 'format': 'https://web.mapquestapi.com/traffic/v2/cameraImage?key=Cmjtd|luur2108n1,7w=o5-gz8a&id=3559'}
+SD.cameras
+{'description': 'Keystone', 'geo': ['-103.425563710', '43.893515450'], 'id': 'CSDKY2', 'format': ['https://www.safetravelusa.com/sd/camera_images/CSDKY2/0/latest.jpg', 'https://www.safetravelusa.com/sd/camera_images/CSDKY2/1/latest.jpg', 'https://www.safetravelusa.com/sd/camera_images/CSDKY2/2/latest.jpg', 'https://www.safetravelusa.com/sd/camera_images/CSDKY2/3/latest.jpg', 'https://www.safetravelusa.com/sd/camera_images/CSDKY2/4/latest.jpg']}
+TN.cameras
+{'description': 'I-40 EB e/o Elm Hill Pike (MM 212.48) (R3-001_', 'geo': [36.14302451, -86.73672679], 'id': '1492', 'format': 'rtsp://mcleansfs1.tdotstreaming.com:554/rtplive/R3_001'}
+UT.cameras
+{'description': '100 S @ 400 E / Flood St, STG', 'geo': ['-113.57482', '37.10654'], 'id': '10215', 'format': 'http://udottraffic.utah.gov/1_devices/aux14924.jpeg'}
+WV.cameras
+{'description': 'US-340 WV-230', 'geo': [39.314265, -77.790967], 'id': 'CAM099', 'format': 'rtsp://162.210.14.137:1935/rtplive/CAM099'}
+AR.cameras
+{'description': 'U.S. 49 E. of Helena Bridge', 'geo': [34.494902, -90.580014], 'id': 101, 'format': 'https://actis.idrivearkansas.com/index.php/api/cameras/feed/101.m3u8'}
+CA.cameras
+{'description': 'SR-20 : At SR-1 - Looking East', 'geo': ['-123.80779', '39.42002'], 'id': 'sr20atsr1lookingeast', 'format': 'http://www.dot.ca.gov/cwwp2/data/d1/cctv/image/sr20atsr1lookingeast/sr20atsr1lookingeast.jpg?_=1538366388'}
+CT.cameras
+{'description': '', 'geo': [41.823175, -72.501513], 'id': '404296--1', 'format': 'https://cttravelsmart.org/map/Cctv/404296--1'}
+FL.cameras
+{'description': '', 'geo': [30.175272, -85.660558], 'id': '1zcct330v0h--1', 'format': 'https://fl511.com/map/Cctv/1zcct330v0h--1'}
+IA.cameras
+{'description': 'RWIS - US 218 MM 211 @ Plainfield', 'geo': [42.8332, -92.5371], 'id': 59144070, 'format': ['http://205.221.97.102/RWIS/RWIS-header.jpg', 'http://205.221.97.102/RWIS/Vid-000512058-00-00.jpg', 'http://205.221.97.102/RWIS/Vid-000512058-00-01.jpg', 'http://205.221.97.102/RWIS/Vid-000512058-00-02.jpg', 'http://205.221.97.102/RWIS/Vid-000512058-00-03.jpg']}
+IL.cameras
+{'description': 'Buffalo Grove at Deerfield', 'geo': [42.17169, -87.9653], 'id': 19285168, 'format': 'https://www.lakecountypassage.com/snapshots/Buffalo_Grove_@_Deerfield_cctv_South_Leg.jpg'}
+KS.cameras
+{'description': 'I-135 North of McPherson MP 64', 'geo': [38.4209, -97.6212], 'id': '213506420', 'format': 'http://www.kandrive.org/cameras/cam213506420.jpg'}
+LA.cameras
+{'description': 'I-10 at LA 44', 'geo': [30.19261, -90.920129], 'id': 2, 'format': ['http://ITSStreamingBR.dotd.la.gov:1935/snapshots?application=public&snap=br-cam-115.streams&ext=.jpg', 'http://ITSStreamingBR.dotd.la.gov:1935/snapshots?application=public&snap=br-cam-114.streams&ext=.jpg']}
+MI.cameras
+{'description': '11 Mile @ Mound NB', 'geo': [42.491304, -83.04479], 'id': 1129, 'format': 'https://micamerasimages.net/thumbs/semtoc_cam_253.flv.jpg?item=1'}
+MO.cameras
+{'description': 'I-635 S @ STATE AVE', 'geo': [39.118142, -94.68176], 'id': 2220, 'format': 'http://www.kcscout.net/mapsubsystem/snapshots/K635SBC-08.jpg'}
+MT.cameras
+{'description': 'Lookout Pass', 'geo': [47.45357298, -115.6950595], 'id': '150000', 'format': ['http://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-00-2018-10-17-05-10.jpg', 'http://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-01-2018-10-17-05-12.jpg', 'http://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-04-2018-10-17-05-09.jpg', 'http://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-03-2018-10-17-05-14.jpg', 'http://rwis.mdt.mt.gov/ScanWeb/Wx/images/Vid-000150000-00-02-2018-10-17-05-13.jpg']}
+ND.cameras
+{'description': 'Ray - West (US 2 MP 51.3) - NDDOT', 'geo': ['-103.216878296', '48.341772934'], 'id': 1, 'format': ['https://www.dot.nd.gov/travel-info/cameras/raywest.jpg', 'https://www.dot.nd.gov/travel-info/cameras/raycenter.jpg', 'https://www.dot.nd.gov/travel-info/cameras/rayeast.jpg', 'https://www.dot.nd.gov/travel-info/cameras/raypavement.jpg']}
+NewEngland.cameras
+{'description': 'ST N, MM 12.4', 'geo': [43.219067, -70.894683], 'id': '568beee1cb91e9ee3886d65c19e4c60b', 'format': 'http://assets.newengland511.org/cctv/568beee1cb91e9ee3886d65c19e4c60b.jpg'}
+NM.cameras
+{'description': 'I-25 @ Lower La Bajada', 'geo': [35.506001, -106.244], 'id': 'I-25@La_Bajada_Lower', 'format': 'http://ss.nmroads.com/snapshots/i25_lowerlabajada.jpg'}
+NY.cameras
+{'description': 'I-490 @ Winton Rd', 'geo': [43.151416, -77.570521], 'id': '16335--2', 'format': 'https://www.511ny.org/map/Cctv/16335--2'}
+OK.cameras
+{'description': 'US-62 & Sheridan', 'geo': ['34.63793300', '-98.42164900'], 'id': '1379329861', 'format': 'https://www.oktraffic.org/cameras/camimg.php?fname=10_16_30_5.jpg&valid=1'}
+PA.cameras
+{'description': 'I-95 @ Disston St', 'id': 'CAM-06-123', 'format': 'https://pa511cams.ilchost.com/cameras/d6/D6Cam107.jpg?nocache=20181002015206', 'geo': ['40.02216', '-75.03885']}
+SC.cameras
+{'description': '1:  US 501 N @ 16th Ave', 'geo': [-79.062775, 33.845627], 'id': '50001', 'format': 'rtsp://s18.us-east-1.skyvdn.com:554/rtplive/50001'}
+TX.cameras
+{'description': 'IH @ FM108', 'geo': [32.508525, -98.431509], 'id': 'IH20 @ FM108 (Snapshot)__FTW', 'format': 'PLACEHOLDER'}
+VA.cameras
+{'description': 'I-64 / MM 234.47 / EB / 0.3 Mi past Exit 234', 'geo': ['-76.72991', '37.35102'], 'id': '85209', 'format': 'rtsp://s13.us-east-1.skyvdn.com:554/rtplive/HamptonRoads885'}
+WI.cameras
+{'description': '', 'geo': [43.031969, -87.957469], 'id': '1rg1rw33qfa--1', 'format': 'https://511wi.gov/map/Cctv/1rg1rw33qfa--1'}
+WY.cameras
+{'description': 'WYO 59 Cheyenne River', 'geo': ['-105.350782000', '43.319906000'], 'id': 18, 'format': 'http://webcams.wyoroad.info/Highway/webcameras/WYO59CheyenneRiver/WYO59CheyenneRiver.jpg'}

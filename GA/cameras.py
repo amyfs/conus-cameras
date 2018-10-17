@@ -2257,4 +2257,4 @@ def list_cameras():
     for camera in cameras["features"]:
         gcam = camera["geometry"]
         cam = camera["properties"]
-        yield {"description": cam["location_description"], "geo": gcam["coordinates"], "id": cam["cctv_id"], "format": cam["RTSP"]}
+        yield {"description": cam["location_description"], "geo": gcam["coordinates"], "id": cam["cctv_id"], "format": cam["url"]}

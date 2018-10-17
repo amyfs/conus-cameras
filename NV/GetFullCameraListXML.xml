@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string xmlns="http://tempuri.org/"><cameras>
+  <camera DeviceID="TL-103073" ID="TL-103073" Description="3073 Charleston and Las Vegas Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103073.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/3073_charleston_and_las_vegas_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.158649</lat>
+    <lon>-115.147743</lon>
+  </camera>
+  <camera DeviceID="TL-103164" ID="TL-103164" Description="95 NB at Durango" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103164.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/95_nb_at_durango_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2989</lat>
+    <lon>-115.285697</lon>
+  </camera>
+  <camera DeviceID="TL-100801" ID="TL-100801" Description="Airport Connector Grier (Tunnel)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100801.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/airport_connector_grier_(tunnel)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.069999</lat>
+    <lon>-115.146697</lon>
+  </camera>
+  <camera DeviceID="TL-100800" ID="TL-100800" Description="Airport Connector NB Grier" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100800.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/airport_connector_nb_grier_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0699</lat>
+    <lon>-115.1464</lon>
+  </camera>
+  <camera DeviceID="TL-104190" ID="TL-104190" Description="Ann Rd and Commerce" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-104190.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/ann_rd_and_commerce_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.261413</lat>
+    <lon>-115.144142</lon>
+  </camera>
+  <camera DeviceID="TL-103330" ID="TL-103330" Description="Ann Rd and Durango" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103330.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/ann_rd_and_durango_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.263</lat>
+    <lon>-115.2789</lon>
+  </camera>
+  <camera DeviceID="TL-102090" ID="TL-102090" Description="Ann Road and CC-215" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102090.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/ann_rd_and_cc-215_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.261497</lat>
+    <lon>-115.327606</lon>
+  </camera>
+  <camera DeviceID="TL-109990" ID="TL-109990" Description="Bermuda and George Crockett" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-109990.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/bermuda_and_george_crockett_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0611</lat>
+    <lon>-115.154502</lon>
+  </camera>
+  <camera DeviceID="TL-102253" ID="TL-102253" Description="Blue Diamond and Buffalo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102253.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/blue_diamond_and_buffalo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.019901</lat>
+    <lon>-115.261497</lon>
+  </camera>
+  <camera DeviceID="TL-102513" ID="TL-102513" Description="Blue Diamond and Cimarron" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102513.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/blue_diamond_and_cimarron_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.020401</lat>
+    <lon>-115.2705</lon>
+  </camera>
+  <camera DeviceID="TL-102172" ID="TL-102172" Description="Blue Diamond and Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102172.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/blue_diamond_and_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.032699</lat>
+    <lon>-115.207901</lon>
+  </camera>
+  <camera DeviceID="TL-102228" ID="TL-102228" Description="Blue Diamond and Durango" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102228.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/blue_diamond_and_durango_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.020099</lat>
+    <lon>-115.278396</lon>
+  </camera>
+  <camera DeviceID="TL-102537" ID="TL-102537" Description="Blue Diamond and El Capitan" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102537.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/blue_diamond_and_el_capitan_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.02</lat>
+    <lon>-115.2891</lon>
+  </camera>
+  <camera DeviceID="TL-102538" ID="TL-102538" Description="Blue Diamond and Fort Apache" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102538.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/blue_diamond_and_fort_apache_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.020099</lat>
+    <lon>-115.2984</lon>
+  </camera>
+  <camera DeviceID="TL-102010" ID="TL-102010" Description="Blue Diamond and I-15 SB ramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102010.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/blue_diamond_and_i-15_sb_ramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.043998</lat>
+    <lon>-115.182197</lon>
+  </camera>
+  <camera DeviceID="TL-102408" ID="TL-102408" Description="Blue Diamond and Jones" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102408.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/blue_diamond_and_jones_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0256</lat>
+    <lon>-115.2257</lon>
+  </camera>
+  <camera DeviceID="TL-102321" ID="TL-102321" Description="Blue DIamond and Rainbow" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102321.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/blue_diamond_and_rainbow_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.022525</lat>
+    <lon>-115.243522</lon>
+  </camera>
+  <camera DeviceID="TL-102283" ID="TL-102283" Description="Blue Diamond and Valley View" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102283.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/blue_diamond_and_valley_view_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0405</lat>
+    <lon>-115.1902</lon>
+  </camera>
+  <camera DeviceID="TL-105004" ID="TL-105004" Description="Boulder Highway and Horizon" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105004.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_highway_and_horizon_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.01406</lat>
+    <lon>-114.953361</lon>
+  </camera>
+  <camera DeviceID="TL-102011" ID="TL-102011" Description="Boulder Highway and Lamb" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102011.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_highway_and_lamb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.129867</lat>
+    <lon>-115.083961</lon>
+  </camera>
+  <camera DeviceID="TL-105007" ID="TL-105007" Description="Boulder Highway and Major" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105007.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_highway_and_major_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.030162</lat>
+    <lon>-114.971412</lon>
+  </camera>
+  <camera DeviceID="TL-102428" ID="TL-102428" Description="Boulder Highway and Russell" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102428.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_highway_and_russell_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.084777</lat>
+    <lon>-115.032455</lon>
+  </camera>
+  <camera DeviceID="TL-102272" ID="TL-102272" Description="Boulder Highway and Tropicana" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102272.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_highway_and_tropicana_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.100608</lat>
+    <lon>-115.051101</lon>
+  </camera>
+  <camera DeviceID="TL-102360" ID="TL-102360" Description="Boulder Highway and US 95 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102360.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_highway_and_us_95_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.134868</lat>
+    <lon>-115.089622</lon>
+  </camera>
+  <camera DeviceID="TL-105055" ID="TL-105055" Description="Boulder Highway and Warm Springs" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105055.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_highway_and_warm_springs_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.050792</lat>
+    <lon>-114.994232</lon>
+  </camera>
+  <camera DeviceID="TL-105013" ID="TL-105013" Description="Boulder Hwy and Sunset" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105013.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/boulder_hwy_and_sunset_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.065776</lat>
+    <lon>-115.011817</lon>
+  </camera>
+  <camera DeviceID="TL-102361" ID="TL-102361" Description="Boulder Hwy and US 95 SB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102361.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/boulder_hwy_and_us_95_sb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1375</lat>
+    <lon>-115.092796</lon>
+  </camera>
+  <camera DeviceID="TL-103138" ID="TL-103138" Description="Buffalo and Cheyenne" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103138.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/buffalo_and_cheyenne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.217998</lat>
+    <lon>-115.261001</lon>
+  </camera>
+  <camera DeviceID="TL-102152" ID="TL-102152" Description="Buffalo and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102152.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/buffalo_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.064998</lat>
+    <lon>-115.260696</lon>
+  </camera>
+  <camera DeviceID="TL-102151" ID="TL-102151" Description="Buffalo and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102151.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/buffalo_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.067199</lat>
+    <lon>-115.260597</lon>
+  </camera>
+  <camera DeviceID="TL-103314" ID="TL-103314" Description="Buffalo and Lake Mead" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103314.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/buffalo_and_lake_mead_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.195999</lat>
+    <lon>-115.260398</lon>
+  </camera>
+  <camera DeviceID="TL-103493" ID="TL-103493" Description="Buffalo and Summerlin N" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103493.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/buffalo_and_summerlin_n_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.179298</lat>
+    <lon>-115.259803</lon>
+  </camera>
+  <camera DeviceID="TL-103492" ID="TL-103492" Description="Buffalo and Summerlin S" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103492.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/buffalo_and_summerlin_s_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.177898</lat>
+    <lon>-115.259696</lon>
+  </camera>
+  <camera DeviceID="TL-103030" ID="TL-103030" Description="Casino Ctr and Bonneville" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103030.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/casino_ctr_and_bonneville_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.164398</lat>
+    <lon>-115.148597</lon>
+  </camera>
+  <camera DeviceID="TL-103058" ID="TL-103058" Description="Casino Ctr and Ogden" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103058.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/casino_ctr_and_ogden_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.171901</lat>
+    <lon>-115.1436</lon>
+  </camera>
+  <camera DeviceID="TL-102198" ID="TL-102198" Description="Casino Dr and SR 163 (Laughlin)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102198.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/casino_dr_and_sr_163_(laughlin)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.1721</lat>
+    <lon>-114.571296</lon>
+  </camera>
+  <camera DeviceID="TL-100707" ID="TL-100707" Description="CC-215 EB Aliante" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100707.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/cc-215_eb_aliante_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.289299</lat>
+    <lon>-115.180099</lon>
+  </camera>
+  <camera DeviceID="TL-100709" ID="TL-100709" Description="CC-215 EB Aviary" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100709.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/cc-215_eb_aviary_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.281398</lat>
+    <lon>-115.1902</lon>
+  </camera>
+  <camera DeviceID="TL-100711" ID="TL-100711" Description="CC-215 EB N Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100711.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/cc-215_eb_n_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.274501</lat>
+    <lon>-115.206901</lon>
+  </camera>
+  <camera DeviceID="TL-100713" ID="TL-100713" Description="CC-215 EB N Jones" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100713.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/cc-215_eb_n_jones_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2747</lat>
+    <lon>-115.2247</lon>
+  </camera>
+  <camera DeviceID="TL-100715" ID="TL-100715" Description="CC-215 WB N Tenaya" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100715.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/cc-215_wb_n_tenaya_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.276298</lat>
+    <lon>-115.251899</lon>
+  </camera>
+  <camera DeviceID="TL-103454" ID="TL-103454" Description="Charleston and Buffalo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103454.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_buffalo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.158969</lat>
+    <lon>-115.262092</lon>
+  </camera>
+  <camera DeviceID="TL-103224" ID="TL-103224" Description="Charleston and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103224.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/charleston_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.158798</lat>
+    <lon>-115.336799</lon>
+  </camera>
+  <camera DeviceID="TL-103179" ID="TL-103179" Description="Charleston and Durango" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103179.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_durango_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1594</lat>
+    <lon>-115.280799</lon>
+  </camera>
+  <camera DeviceID="TL-103068" ID="TL-103068" Description="Charleston and Fremont" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103068.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/charleston_and_fremont_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159046</lat>
+    <lon>-115.1165</lon>
+  </camera>
+  <camera DeviceID="TL-103257" ID="TL-103257" Description="Charleston and Grand Central Pkwy" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103257.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/charleston_and_grand_central_pkwy_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.158771</lat>
+    <lon>-115.158294</lon>
+  </camera>
+  <camera DeviceID="TL-103180" ID="TL-103180" Description="Charleston and Hualapai" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103180.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_hualapai_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159099</lat>
+    <lon>-115.314102</lon>
+  </camera>
+  <camera DeviceID="TL-103327" ID="TL-103327" Description="Charleston and I515 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103327.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_i515_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159099</lat>
+    <lon>-115.089996</lon>
+  </camera>
+  <camera DeviceID="TL-103071" ID="TL-103071" Description="Charleston and Jones" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103071.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_jones_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159</lat>
+    <lon>-115.223701</lon>
+  </camera>
+  <camera DeviceID="TL-103223" ID="TL-103223" Description="Charleston and Pavillion" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103223.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_pavillion_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159099</lat>
+    <lon>-115.327301</lon>
+  </camera>
+  <camera DeviceID="TL-103078" ID="TL-103078" Description="Charleston and Rainbow" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103078.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_rainbow_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159999</lat>
+    <lon>-115.243499</lon>
+  </camera>
+  <camera DeviceID="TL-103017" ID="TL-103017" Description="Charleston and Rampart" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103017.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/charleston_and_rampart_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159099</lat>
+    <lon>-115.291496</lon>
+  </camera>
+  <camera DeviceID="TL-103079" ID="TL-103079" Description="Charleston and Rancho" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103079.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/charleston_and_rancho_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.158779</lat>
+    <lon>-115.173011</lon>
+  </camera>
+  <camera DeviceID="TL-103183" ID="TL-103183" Description="Charleston and Town Center" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103183.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/charleston_and_town_center_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.159099</lat>
+    <lon>-115.322998</lon>
+  </camera>
+  <camera DeviceID="TL-103293" ID="TL-103293" Description="Cheyenne and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103293.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/cheyenne_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2191</lat>
+    <lon>-115.327301</lon>
+  </camera>
+  <camera DeviceID="TL-104418" ID="TL-104418" Description="Cheyenne and MLK" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-104418.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/cheyenne_and_mlk_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2173</lat>
+    <lon>-115.161598</lon>
+  </camera>
+  <camera DeviceID="TL-104030" ID="TL-104030" Description="Craig and Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-104030.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/craig_and_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.239601</lat>
+    <lon>-115.207397</lon>
+  </camera>
+  <camera DeviceID="TL-102021" ID="TL-102021" Description="Craig and Lamb" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102021.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/craig_and_lamb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.240898</lat>
+    <lon>-115.080596</lon>
+  </camera>
+  <camera DeviceID="TL-104013" ID="TL-104013" Description="Craig and Losee" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-104013.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/craig_and_losee_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.240699</lat>
+    <lon>-115.113998</lon>
+  </camera>
+  <camera DeviceID="TL-102019" ID="TL-102019" Description="Craig and LV Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102019.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/craig_and_lv_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.240459</lat>
+    <lon>-115.055015</lon>
+  </camera>
+  <camera DeviceID="TL-104003" ID="TL-104003" Description="Craig and MLK" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-104003.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/craig_and_mlk_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.239799</lat>
+    <lon>-115.162002</lon>
+  </camera>
+  <camera DeviceID="TL-103174" ID="TL-103174" Description="Craig and Rancho" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103174.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/craig_and_rancho_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.239448</lat>
+    <lon>-115.232711</lon>
+  </camera>
+  <camera DeviceID="TL-102399" ID="TL-102399" Description="Decatur and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102399.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/decatur_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.067157</lat>
+    <lon>-115.207809</lon>
+  </camera>
+  <camera DeviceID="TL-102398" ID="TL-102398" Description="Decatur and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102398.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/decatur_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.069068</lat>
+    <lon>-115.207839</lon>
+  </camera>
+  <camera DeviceID="TL-102356" ID="TL-102356" Description="Decatur and Sunset" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102356.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/decatur_and_sunset_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.071941</lat>
+    <lon>-115.207641</lon>
+  </camera>
+  <camera DeviceID="TL-103157" ID="TL-103157" Description="Durango and Cheyenne" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103157.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/durango_and_cheyenne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.217998</lat>
+    <lon>-115.2798</lon>
+  </camera>
+  <camera DeviceID="TL-102226" ID="TL-102226" Description="Durango and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102226.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/durango_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.065101</lat>
+    <lon>-115.279403</lon>
+  </camera>
+  <camera DeviceID="TL-102036" ID="TL-102036" Description="Durango and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102036.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/durango_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.067401</lat>
+    <lon>-115.279403</lon>
+  </camera>
+  <camera DeviceID="TL-102211" ID="TL-102211" Description="Durango and Lone Mountain" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102211.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/durango_and_lone_mountain_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.248401</lat>
+    <lon>-115.279197</lon>
+  </camera>
+  <camera DeviceID="TL-103411" ID="TL-103411" Description="Durango and Oso Blanca" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103411.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/durango_and_oso_blanca_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.295265</lat>
+    <lon>-115.288284</lon>
+  </camera>
+  <camera DeviceID="TL-103385" ID="TL-103385" Description="Durango and Summerlin Pkwy N" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103385.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/durango_and_summerlin_pkwy_n_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.178398</lat>
+    <lon>-115.277999</lon>
+  </camera>
+  <camera DeviceID="TL-103384" ID="TL-103384" Description="Durango and Summerlin Pkwy S" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103384.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/durango_and_summerlin_pkwy_s_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.177398</lat>
+    <lon>-115.277999</lon>
+  </camera>
+  <camera DeviceID="TL-200405" ID="TL-200405" Description="E McCarran Blvd at I-80 EB Offramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200405.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/e_mccarran_blvd_at_i-80_eb_offramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.533</lat>
+    <lon>-119.739196</lon>
+  </camera>
+  <camera DeviceID="TL-200406" ID="TL-200406" Description="E McCarran Blvd at UPRR Overpass" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200406.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/e_mccarran_at_uprr_overpass_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.530799</lat>
+    <lon>-119.739501</lon>
+  </camera>
+  <camera DeviceID="TL-102119" ID="TL-102119" Description="Eastern and Flamingo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102119.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/eastern_and_flamingo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114398</lat>
+    <lon>-115.119499</lon>
+  </camera>
+  <camera DeviceID="TL-105088" ID="TL-105088" Description="Eastern and Horizon Ridge" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105088.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/eastern_and_horizon_ridge_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.998901</lat>
+    <lon>-115.104797</lon>
+  </camera>
+  <camera DeviceID="TL-102189" ID="TL-102189" Description="Eastern and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102189.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/eastern_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.022998</lat>
+    <lon>-115.118698</lon>
+  </camera>
+  <camera DeviceID="TL-102188" ID="TL-102188" Description="Eastern and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102188.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/eastern_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.025001</lat>
+    <lon>-115.118698</lon>
+  </camera>
+  <camera DeviceID="TL-103342" ID="TL-103342" Description="Eastern and I-515 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103342.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/eastern_and_i-515_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.168998</lat>
+    <lon>-115.115898</lon>
+  </camera>
+  <camera DeviceID="TL-103343" ID="TL-103343" Description="Eastern and I-515 SB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103343.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/eastern_and_i-515_sb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.167301</lat>
+    <lon>-115.115798</lon>
+  </camera>
+  <camera DeviceID="TL-102190" ID="TL-102190" Description="Eastern and Serene" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102190.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/eastern_and_serene_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0205</lat>
+    <lon>-115.118698</lon>
+  </camera>
+  <camera DeviceID="TL-102191" ID="TL-102191" Description="Eastern and Silverado Ranch" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102191.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/eastern_and_silverado_ranch_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0135</lat>
+    <lon>-115.118797</lon>
+  </camera>
+  <camera DeviceID="TL-102354" ID="TL-102354" Description="Eastern and Sunset" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102354.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/eastern_and_sunset_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.071701</lat>
+    <lon>-115.118499</lon>
+  </camera>
+  <camera DeviceID="TL-102125" ID="TL-102125" Description="Eastern and Tropicana" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102125.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/eastern_and_tropicana_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.100101</lat>
+    <lon>-115.118797</lon>
+  </camera>
+  <camera DeviceID="TL-102024" ID="TL-102024" Description="Eastern and Windmill" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102024.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/eastern_and_windmill_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0424</lat>
+    <lon>-115.118301</lon>
+  </camera>
+  <camera DeviceID="TL-103516" ID="TL-103516" Description="Elkhorn and Grand Montecito" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103516.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/elkhorn_and_grand_montecito_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.291992</lat>
+    <lon>-115.284172</lon>
+  </camera>
+  <camera DeviceID="TL-133391" ID="TL-133391" Description="Far Hills and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-133391.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/far_hills_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1823</lat>
+    <lon>-115.340698</lon>
+  </camera>
+  <camera DeviceID="TL-102065" ID="TL-102065" Description="Flamingo and 215 NB median" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102065.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/flamingo_and_215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.115135</lat>
+    <lon>-115.301269</lon>
+  </camera>
+  <camera DeviceID="TL-102545" ID="TL-102545" Description="Flamingo and 215 SB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102545.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/flamingo_and_215_sb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.115379</lat>
+    <lon>-115.304214</lon>
+  </camera>
+  <camera DeviceID="TL-102291" ID="TL-102291" Description="Flamingo and Boulder Highway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102291.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/flamingo_and_boulder_highway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114822</lat>
+    <lon>-115.066688</lon>
+  </camera>
+  <camera DeviceID="TL-102058" ID="TL-102058" Description="Flamingo and Buffalo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102058.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/flamingo_and_buffalo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1151</lat>
+    <lon>-115.260696</lon>
+  </camera>
+  <camera DeviceID="TL-102159" ID="TL-102159" Description="Flamingo and Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102159.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/flamingo_and_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.11573</lat>
+    <lon>-115.207824</lon>
+  </camera>
+  <camera DeviceID="TL-102064" ID="TL-102064" Description="Flamingo and El Capitan" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102064.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/flamingo_and_el_capitan_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114898</lat>
+    <lon>-115.288002</lon>
+  </camera>
+  <camera DeviceID="TL-102363" ID="TL-102363" Description="Flamingo and I-515 SB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102363.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/flamingo_and_i-515_sb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.115398</lat>
+    <lon>-115.084701</lon>
+  </camera>
+  <camera DeviceID="TL-102098" ID="TL-102098" Description="Flamingo and Jones" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102098.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/flamingo_and_jones_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1147</lat>
+    <lon>-115.225196</lon>
+  </camera>
+  <camera DeviceID="TL-121311" ID="TL-121311" Description="Flamingo and Koval SE" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-121311.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/flamingo_and_koval_se_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114601</lat>
+    <lon>-115.164001</lon>
+  </camera>
+  <camera DeviceID="TL-102132" ID="TL-102132" Description="Flamingo and Las Vegas Boulevard" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102132.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/flamingo_and_las_vegas_boulevard_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.11454</lat>
+    <lon>-115.17308</lon>
+  </camera>
+  <camera DeviceID="TL-102345" ID="TL-102345" Description="Flamingo and NB I-15" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102345.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/flamingo_and_nb_i-15_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114398</lat>
+    <lon>-115.179</lon>
+  </camera>
+  <camera DeviceID="TL-102135" ID="TL-102135" Description="Flamingo and Pecos" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102135.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/flamingo_and_pecos_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114799</lat>
+    <lon>-115.100601</lon>
+  </camera>
+  <camera DeviceID="TL-102346" ID="TL-102346" Description="Flamingo and SB I-15" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102346.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/flamingo_and_sb_i-15_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114398</lat>
+    <lon>-115.1828</lon>
+  </camera>
+  <camera DeviceID="TL-102183" ID="TL-102183" Description="Flamingo and Valley View" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102183.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/flamingo_and_valley_view_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.116199</lat>
+    <lon>-115.189697</lon>
+  </camera>
+  <camera DeviceID="TL-102133" ID="TL-102133" Description="Flamingo at Maryland" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102133.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/flamingo_at_maryland_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114398</lat>
+    <lon>-115.137603</lon>
+  </camera>
+  <camera DeviceID="TL-102134" ID="TL-102134" Description="Flamingo at Paradise" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102134.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/flamingo_at_paradise_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114299</lat>
+    <lon>-115.153701</lon>
+  </camera>
+  <camera DeviceID="TL-102999" ID="TL-102999" Description="Fort Apache and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102999.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/fort_apache_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.111999</lat>
+    <lon>-115.297401</lon>
+  </camera>
+  <camera DeviceID="TL-200901" ID="TL-200901" Description="Galletti at Kietzke" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200901.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/galletti_at_kietzke_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.5335</lat>
+    <lon>-119.777999</lon>
+  </camera>
+  <camera DeviceID="TL-105156" ID="TL-105156" Description="Gibson and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105156.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/gibson_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.031299</lat>
+    <lon>-115.029502</lon>
+  </camera>
+  <camera DeviceID="TL-105155" ID="TL-105155" Description="Gibson and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105155.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/gibson_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.031898</lat>
+    <lon>-115.029502</lon>
+  </camera>
+  <camera DeviceID="TL-103148" ID="TL-103148" Description="Grand Central Pkwy-Bonneville" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103148.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/grand_central_pkwy-bonneville_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.166576</lat>
+    <lon>-115.155403</lon>
+  </camera>
+  <camera DeviceID="TL-103483" ID="TL-103483" Description="Grand Central Pkwy-City Pkwy" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103483.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/grand_central_pkwy-city_pkwy_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.173507</lat>
+    <lon>-115.149108</lon>
+  </camera>
+  <camera DeviceID="TL-103284" ID="TL-103284" Description="Grand Central Pkwy-Premium Outlet Mall" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103284.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/grand_central_pkwy-premium_outlet_mall_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.16167</lat>
+    <lon>-115.157699</lon>
+  </camera>
+  <camera DeviceID="TL-103487" ID="TL-103487" Description="Grand Central Pkwy-Symphony" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103487.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/grand_central_pkwy-symphony_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.170398</lat>
+    <lon>-115.153602</lon>
+  </camera>
+  <camera DeviceID="TL-150741" ID="TL-150741" Description="Green Valley and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-150741.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/green_valley_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.024101</lat>
+    <lon>-115.084999</lon>
+  </camera>
+  <camera DeviceID="TL-105039" ID="TL-105039" Description="Green Valley Pkwy and Warm Springs" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105039.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/green_valley_pkwy_and_warm_springs_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.056301</lat>
+    <lon>-115.084602</lon>
+  </camera>
+  <camera DeviceID="TL-102416" ID="TL-102416" Description="Harmon at Cosmopolitan" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102416.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/harmon_at_cosmopolitan_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.107799</lat>
+    <lon>-115.174697</lon>
+  </camera>
+  <camera DeviceID="TL-100122" ID="TL-100122" Description="I-15 NB Blue Diamond North" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100122.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_blue_diamond_north_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.047698</lat>
+    <lon>-115.179496</lon>
+  </camera>
+  <camera DeviceID="TL-100123" ID="TL-100123" Description="I-15 NB Blue Diamond South" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100123.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_blue_diamond_south_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0349</lat>
+    <lon>-115.179496</lon>
+  </camera>
+  <camera DeviceID="TL-100125" ID="TL-100125" Description="I-15 NB Cactus" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100125.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_cactus_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.003101</lat>
+    <lon>-115.18</lon>
+  </camera>
+  <camera DeviceID="TL-100305" ID="TL-100305" Description="I-15 NB Carey" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100305.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_nb_carey_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.202899</lat>
+    <lon>-115.133102</lon>
+  </camera>
+  <camera DeviceID="TL-100106" ID="TL-100106" Description="I-15 NB Charleston" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100106.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_nb_charleston_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1567</lat>
+    <lon>-115.160301</lon>
+  </camera>
+  <camera DeviceID="TL-100309" ID="TL-100309" Description="I-15 NB Craig Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100309.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/i-15_nb_craig_rd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.238399</lat>
+    <lon>-115.101799</lon>
+  </camera>
+  <camera DeviceID="TL-100303" ID="TL-100303" Description="I-15 NB Lake Mead S" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100303.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/i-15_nb_lake_mead_s_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.195201</lat>
+    <lon>-115.136299</lon>
+  </camera>
+  <camera DeviceID="TL-100319" ID="TL-100319" Description="I-15 NB Las Vegas Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100319.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_nb_las_vegas_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.310001</lat>
+    <lon>-114.953201</lon>
+  </camera>
+  <camera DeviceID="TL-100318" ID="TL-100318" Description="I-15 NB mm56" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100318.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_nb_mm56_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.295299</lat>
+    <lon>-114.991699</lon>
+  </camera>
+  <camera DeviceID="TL-100109" ID="TL-100109" Description="I-15 NB Oakey" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100109.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_oakey_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.148601</lat>
+    <lon>-115.1669</lon>
+  </camera>
+  <camera DeviceID="TL-100312" ID="TL-100312" Description="I-15 NB Range Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100312.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_nb_range_rd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.267898</lat>
+    <lon>-115.063903</lon>
+  </camera>
+  <camera DeviceID="TL-100121" ID="TL-100121" Description="I-15 NB S I-215 (dual1)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100121.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_s_i-215_(dual1)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.063129</lat>
+    <lon>-115.179985</lon>
+  </camera>
+  <camera DeviceID="TL-100316" ID="TL-100316" Description="I-15 NB Speedway Blvd (dual)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100316.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_nb_speedway_blvd_(dual)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.282398</lat>
+    <lon>-115.025398</lon>
+  </camera>
+  <camera DeviceID="TL-100128" ID="TL-100128" Description="I-15 NB St Rose" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100128.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_nb_st_rose_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.962699</lat>
+    <lon>-115.180801</lon>
+  </camera>
+  <camera DeviceID="TL-100129" ID="TL-100129" Description="I-15 NB St Rose S Mile 26" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100129.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_st_rose_s_mile_26_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.947898</lat>
+    <lon>-115.182197</lon>
+  </camera>
+  <camera DeviceID="TL-100126" ID="TL-100126" Description="I-15 NB Starr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100126.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_starr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.990501</lat>
+    <lon>-115.180397</lon>
+  </camera>
+  <camera DeviceID="TL-100119" ID="TL-100119" Description="I-15 NB Sunset" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100119.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_sunset_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.070899</lat>
+    <lon>-115.179199</lon>
+  </camera>
+  <camera DeviceID="TL-100116" ID="TL-100116" Description="I-15 NB Tropicana" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100116.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_nb_tropicana_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.100952</lat>
+    <lon>-115.180137</lon>
+  </camera>
+  <camera DeviceID="TL-100301" ID="TL-100301" Description="I-15 NB Washington" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100301.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/i-15_nb_washington_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.180599</lat>
+    <lon>-115.145103</lon>
+  </camera>
+  <camera DeviceID="TL-100308" ID="TL-100308" Description="I-15 SB Alexander" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100308.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_sb_alexander_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.229301</lat>
+    <lon>-115.117797</lon>
+  </camera>
+  <camera DeviceID="TL-100320" ID="TL-100320" Description="I-15 SB Apex Weigh Station" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100320.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_sb_apex_weigh_station_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.3358</lat>
+    <lon>-114.919799</lon>
+  </camera>
+  <camera DeviceID="TL-100306" ID="TL-100306" Description="I-15 SB between Cheyenne and Carey" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100306.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_sb_between_cheyenne_and_carey_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.212501</lat>
+    <lon>-115.130401</lon>
+  </camera>
+  <camera DeviceID="TL-100300" ID="TL-100300" Description="I-15 SB Bonanza" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100300.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/i-15_sb_bonanza_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1772</lat>
+    <lon>-115.153198</lon>
+  </camera>
+  <camera DeviceID="TL-100307" ID="TL-100307" Description="I-15 SB Cheyenne" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100307.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_sb_cheyenne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.218498</lat>
+    <lon>-115.125701</lon>
+  </camera>
+  <camera DeviceID="TL-100113" ID="TL-100113" Description="I-15 SB Desert Inn" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100113.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_sb_desert_inn_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.130001</lat>
+    <lon>-115.180999</lon>
+  </camera>
+  <camera DeviceID="TL-100115" ID="TL-100115" Description="I-15 SB Flamingo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100115.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_sb_flamingo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1105</lat>
+    <lon>-115.1809</lon>
+  </camera>
+  <camera DeviceID="TL-100101" ID="TL-100101" Description="I-15 SB I-515 Interchange (dual 1)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100101.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-15_sb_i-515_interchange_(dual1)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1748</lat>
+    <lon>-115.156196</lon>
+  </camera>
+  <camera DeviceID="TL-100100" ID="TL-100100" Description="I-15 SB I-515 Interchange (dual 2)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100100.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-15_sb_i-515_interchange_(dual2)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.17477</lat>
+    <lon>-115.156623</lon>
+  </camera>
+  <camera DeviceID="TL-100304" ID="TL-100304" Description="I-15 SB Lake Mead N" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100304.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_sb_lake_mead_n_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1972</lat>
+    <lon>-115.141296</lon>
+  </camera>
+  <camera DeviceID="TL-100311" ID="TL-100311" Description="I-15 SB Lamb" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100311.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_sb_lamb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.259799</lat>
+    <lon>-115.0783</lon>
+  </camera>
+  <camera DeviceID="TL-100310" ID="TL-100310" Description="I-15 SB Lone Mountain Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100310.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_sb_lone_mountain_rd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2495</lat>
+    <lon>-115.0913</lon>
+  </camera>
+  <camera DeviceID="TL-100313" ID="TL-100313" Description="I-15 SB N I-215 (dual 1)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100313.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_sb_n_i-215_(dual_1)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.271999</lat>
+    <lon>-115.057502</lon>
+  </camera>
+  <camera DeviceID="TL-100314" ID="TL-100314" Description="I-15 SB N I-215 (dual 2)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100314.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-15_sb_n_i-215_(dual_2)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.271499</lat>
+    <lon>-115.056999</lon>
+  </camera>
+  <camera DeviceID="TL-100302" ID="TL-100302" Description="I-15 SB Owens" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100302.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/i-15_sb_owens_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.188701</lat>
+    <lon>-115.143302</lon>
+  </camera>
+  <camera DeviceID="TL-100118" ID="TL-100118" Description="I-15 SB S of Russell" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100118.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_sb_s_of_russell_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0778</lat>
+    <lon>-115.180999</lon>
+  </camera>
+  <camera DeviceID="TL-100112" ID="TL-100112" Description="I-15 SB Sahara South" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100112.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_sb_sahara_south_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1394</lat>
+    <lon>-115.175697</lon>
+  </camera>
+  <camera DeviceID="TL-100131" ID="TL-100131" Description="I-15 SB Sloan S Mile 21" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100131.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-15_sb_sloan_s_mile_21_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.8763</lat>
+    <lon>-115.237297</lon>
+  </camera>
+  <camera DeviceID="TL-100114" ID="TL-100114" Description="I-15 SB Spring Mtn" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100114.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-15_sb_spring_mtn_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1207</lat>
+    <lon>-115.180999</lon>
+  </camera>
+  <camera DeviceID="TL-100611" ID="TL-100611" Description="I-215 EB Eastern" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100611.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_eb_eastern_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.023601</lat>
+    <lon>-115.117103</lon>
+  </camera>
+  <camera DeviceID="TL-100601" ID="TL-100601" Description="I-215 EB Gilespie" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100601.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_eb_gilespie_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.062301</lat>
+    <lon>-115.166297</lon>
+  </camera>
+  <camera DeviceID="TL-100500" ID="TL-100500" Description="I-215 EB I-15 SB ramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100500.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-215_eb_i-15_sb_ramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.065101</lat>
+    <lon>-115.186302</lon>
+  </camera>
+  <camera DeviceID="TL-100610" ID="TL-100610" Description="I-215 EB Pebble" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100610.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_eb_pebble_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0275</lat>
+    <lon>-115.130699</lon>
+  </camera>
+  <camera DeviceID="TL-100612" ID="TL-100612" Description="I-215 EB St Rose" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100612.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_eb_st_rose_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.022899</lat>
+    <lon>-115.098899</lon>
+  </camera>
+  <camera DeviceID="TL-100600" ID="TL-100600" Description="I-215 EB W of Las Vegas Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100600.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_eb_w_of_las_vegas_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.062999</lat>
+    <lon>-115.174697</lon>
+  </camera>
+  <camera DeviceID="TL-100515" ID="TL-100515" Description="I-215 Summerlin" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100515.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-215_summerlin_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.191501</lat>
+    <lon>-115.3432</lon>
+  </camera>
+  <camera DeviceID="TL-100516" ID="TL-100516" Description="I-215 Summerlin (dual)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100516.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-215_summerlin_(dual)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.192501</lat>
+    <lon>-115.3432</lon>
+  </camera>
+  <camera DeviceID="TL-100604" ID="TL-100604" Description="I-215 WB Airport Connector E" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100604.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_wb_airport_connector_e_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.062999</lat>
+    <lon>-115.148101</lon>
+  </camera>
+  <camera DeviceID="TL-100605" ID="TL-100605" Description="I-215 WB Airport Connector E (dual)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100605.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-215_wb_airport_connector_e_(dual)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.063999</lat>
+    <lon>-115.149101</lon>
+  </camera>
+  <camera DeviceID="TL-100501" ID="TL-100501" Description="I-215 WB E of Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100501.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/i-215_wb_e_of_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.068901</lat>
+    <lon>-115.199798</lon>
+  </camera>
+  <camera DeviceID="TL-100615" ID="TL-100615" Description="I-215 WB Gibson" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100615.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_wb_gibson_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0326</lat>
+    <lon>-115.027496</lon>
+  </camera>
+  <camera DeviceID="TL-100613" ID="TL-100613" Description="I-215 WB Green Valley Pkwy" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100613.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_wb_green_valley_pkwy_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.025398</lat>
+    <lon>-115.084602</lon>
+  </camera>
+  <camera DeviceID="TL-100614" ID="TL-100614" Description="I-215 WB W of Valle Verde" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100614.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_wb_w_of_valle_verde_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.027</lat>
+    <lon>-115.073097</lon>
+  </camera>
+  <camera DeviceID="TL-100606" ID="TL-100606" Description="I-215 WB Warm Springs N" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100606.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_wb_warm_springs_n_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.060298</lat>
+    <lon>-115.143203</lon>
+  </camera>
+  <camera DeviceID="TL-100609" ID="TL-100609" Description="I-215 WB Wigwam" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100609.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-215_wb_wigwam_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.034301</lat>
+    <lon>-115.132301</lon>
+  </camera>
+  <camera DeviceID="TL-100418" ID="TL-100418" Description="I-515 NB Auto Show" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100418.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_auto_show_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.048698</lat>
+    <lon>-115.021697</lon>
+  </camera>
+  <camera DeviceID="TL-109998" ID="TL-109998" Description="I-515 NB Casino Center on ramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-109998.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/i-515_nb_casino_center_on_ramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.176898</lat>
+    <lon>-115.142402</lon>
+  </camera>
+  <camera DeviceID="TL-100411" ID="TL-100411" Description="I-515 NB Flamingo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100411.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_flamingo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114398</lat>
+    <lon>-115.081298</lon>
+  </camera>
+  <camera DeviceID="TL-100416" ID="TL-100416" Description="I-515 NB Galleria" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100416.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_galleria_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0732</lat>
+    <lon>-115.035499</lon>
+  </camera>
+  <camera DeviceID="TL-100421" ID="TL-100421" Description="I-515 NB Horizon" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100421.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_horizon_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.011798</lat>
+    <lon>-114.988502</lon>
+  </camera>
+  <camera DeviceID="TL-100402" ID="TL-100402" Description="I-515 NB Main Street" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100402.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-515_nb_main_street_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1776</lat>
+    <lon>-115.143898</lon>
+  </camera>
+  <camera DeviceID="TL-100406" ID="TL-100406" Description="I-515 NB Pecos" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100406.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/i-515_nb_pecos_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.167198</lat>
+    <lon>-115.099098</lon>
+  </camera>
+  <camera DeviceID="TL-100414" ID="TL-100414" Description="I-515 NB Russell N" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100414.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_russell_n_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.089099</lat>
+    <lon>-115.058097</lon>
+  </camera>
+  <camera DeviceID="TL-100415" ID="TL-100415" Description="I-515 NB Russell S" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100415.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_russell_s_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.082</lat>
+    <lon>-115.043502</lon>
+  </camera>
+  <camera DeviceID="TL-100420" ID="TL-100420" Description="I-515 NB S I-215" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100420.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_s_i-215_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.033599</lat>
+    <lon>-115.0121</lon>
+  </camera>
+  <camera DeviceID="TL-100424" ID="TL-100424" Description="I-515 NB S of College" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100424.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_s_of_college_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.001399</lat>
+    <lon>-114.946601</lon>
+  </camera>
+  <camera DeviceID="TL-100425" ID="TL-100425" Description="I-515 NB Wagon Wheel" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100425.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_nb_wagon_wheel_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.996398</lat>
+    <lon>-114.932601</lon>
+  </camera>
+  <camera DeviceID="TL-100409" ID="TL-100409" Description="I-515 SB Boulder Highway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100409.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_boulder_highway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.138</lat>
+    <lon>-115.091697</lon>
+  </camera>
+  <camera DeviceID="TL-100408" ID="TL-100408" Description="I-515 SB Charleston S" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100408.jpg" StreamingURL="http://wowza2.nvfast.org:1935/bmw7/i-515_sb_charleston_s_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.151699</lat>
+    <lon>-115.092498</lon>
+  </camera>
+  <camera DeviceID="TL-100423" ID="TL-100423" Description="I-515 SB College" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100423.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_college_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.998699</lat>
+    <lon>-114.964401</lon>
+  </camera>
+  <camera DeviceID="TL-100410" ID="TL-100410" Description="I-515 SB Desert Inn" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100410.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_desert_inn_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.129501</lat>
+    <lon>-115.090202</lon>
+  </camera>
+  <camera DeviceID="TL-100413" ID="TL-100413" Description="I-515 SB Duck Creek" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100413.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_duck_creek_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.088798</lat>
+    <lon>-115.070297</lon>
+  </camera>
+  <camera DeviceID="TL-100422" ID="TL-100422" Description="I-515 SB Greenway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100422.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_greenway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.999198</lat>
+    <lon>-114.9766</lon>
+  </camera>
+  <camera DeviceID="TL-100400" ID="TL-100400" Description="I-515 SB I-15 (Turtles)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100400.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-515_sb_i-15_(turtles)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.178901</lat>
+    <lon>-115.152801</lon>
+  </camera>
+  <camera DeviceID="TL-100403" ID="TL-100403" Description="I-515 SB Las Vegas Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100403.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_boulevard_and_us-95_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.173099</lat>
+    <lon>-115.136901</lon>
+  </camera>
+  <camera DeviceID="TL-100401" ID="TL-100401" Description="I-515 SB Main Street" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100401.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/i-515_sb_main_street_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.172599</lat>
+    <lon>-115.143798</lon>
+  </camera>
+  <camera DeviceID="TL-100426" ID="TL-100426" Description="I-515 SB Paradise Hills Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100426.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_paradise_hills_dr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.984699</lat>
+    <lon>-114.921501</lon>
+  </camera>
+  <camera DeviceID="TL-100419" ID="TL-100419" Description="I-515 SB S I-215" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100419.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_s_i-215_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.036998</lat>
+    <lon>-115.020103</lon>
+  </camera>
+  <camera DeviceID="TL-100417" ID="TL-100417" Description="I-515 SB Sunset" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100417.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_sunset_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.063598</lat>
+    <lon>-115.033699</lon>
+  </camera>
+  <camera DeviceID="TL-100412" ID="TL-100412" Description="I-515 SB Tropicana" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100412.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/i-515_sb_tropicana_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0993</lat>
+    <lon>-115.082901</lon>
+  </camera>
+  <camera DeviceID="TL-200243" ID="TL-200243" Description="I-580 at Browns Creek Bridge" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200243.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_browns_creek_bridge_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.340698</lat>
+    <lon>-119.804397</lon>
+  </camera>
+  <camera DeviceID="TL-200242" ID="TL-200242" Description="I-580 at Galena Creek Bridge" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200242.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_galena_creek_bridge_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.349998</lat>
+    <lon>-119.790802</lon>
+  </camera>
+  <camera DeviceID="TL-200240" ID="TL-200240" Description="I-580 at Galena Forest Bridge" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200240.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_galena_forest_bridge_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.389301</lat>
+    <lon>-119.7574</lon>
+  </camera>
+  <camera DeviceID="TL-200223" ID="TL-200223" Description="I-580 at Glendale Ave" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200223.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_glendale_ave_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.527999</lat>
+    <lon>-119.7835</lon>
+  </camera>
+  <camera DeviceID="TL-200250" ID="TL-200250" Description="I-580 at Hot Springs" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200250.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_hot_springs_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.2066</lat>
+    <lon>-119.797096</lon>
+  </camera>
+  <camera DeviceID="TL-200220" ID="TL-200220" Description="I-580 at I-80 NE" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200220.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_i-80_ne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.536998</lat>
+    <lon>-119.787597</lon>
+  </camera>
+  <camera DeviceID="TL-200221" ID="TL-200221" Description="I-580 at I-80 SW" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200221.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_i-80_s_w_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.536998</lat>
+    <lon>-119.787597</lon>
+  </camera>
+  <camera DeviceID="TL-200222" ID="TL-200222" Description="I-580 at Kietzke Lane" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200222.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_kietzke_lane_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.531898</lat>
+    <lon>-119.786003</lon>
+  </camera>
+  <camera DeviceID="TL-200248" ID="TL-200248" Description="I-580 at Lakeview Hill" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200248.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_lakeview_hill_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.2075</lat>
+    <lon>-119.801498</lon>
+  </camera>
+  <camera DeviceID="TL-200224" ID="TL-200224" Description="I-580 at Mill St" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200224.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_mill_st_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.519699</lat>
+    <lon>-119.782798</lon>
+  </camera>
+  <camera DeviceID="TL-200227" ID="TL-200227" Description="I-580 at Moana" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200227.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_moana_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.493301</lat>
+    <lon>-119.784202</lon>
+  </camera>
+  <camera DeviceID="TL-200246" ID="TL-200246" Description="I-580 at N Washoe Valley" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200246.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_n_washoe_valley_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.274005</lat>
+    <lon>-119.81887</lon>
+  </camera>
+  <camera DeviceID="TL-200231" ID="TL-200231" Description="I-580 at Neil Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200231.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-580_at_neil_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.463699</lat>
+    <lon>-119.786598</lon>
+  </camera>
+  <camera DeviceID="TL-200226" ID="TL-200226" Description="I-580 at Plumb Airport" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200226.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_plumb_airport_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.503101</lat>
+    <lon>-119.781402</lon>
+  </camera>
+  <camera DeviceID="TL-200229" ID="TL-200229" Description="I-580 at S Virginia Off Ramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200229.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-580_at_s_virginia_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.482898</lat>
+    <lon>-119.787101</lon>
+  </camera>
+  <camera DeviceID="TL-200241" ID="TL-200241" Description="I-580 at Steamboat Hill Bridge" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200241.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_steamboat_hill_bridge_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.376098</lat>
+    <lon>-119.753799</lon>
+  </camera>
+  <camera DeviceID="TL-200225" ID="TL-200225" Description="I-580 at Villanova Onramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200225.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_at_villanova_onramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.509899</lat>
+    <lon>-119.779998</lon>
+  </camera>
+  <camera DeviceID="TL-200247" ID="TL-200247" Description="I-580 US395A at S Washoe Valley" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200247.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-580_us395a_at_s_washoe_valley_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.2266</lat>
+    <lon>-119.809997</lon>
+  </camera>
+  <camera DeviceID="TL-300122" ID="TL-300122" Description="I-80 and Battle Mountain" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300122.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_battle_mountain_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.637798</lat>
+    <lon>-116.944503</lon>
+  </camera>
+  <camera DeviceID="TL-300103" ID="TL-300103" Description="I-80 and Carlin Tunnel East 1" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300103.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_east_1_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.719799</lat>
+    <lon>-116.010398</lon>
+  </camera>
+  <camera DeviceID="TL-300123" ID="TL-300123" Description="I-80 and Carlin Tunnel East 2" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300123.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_east_2_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.719398</lat>
+    <lon>-116.0093</lon>
+  </camera>
+  <camera DeviceID="TL-300121" ID="TL-300121" Description="I-80 and Carlin Tunnel East EB (Thermal)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300121.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_east_eb_(thermal)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.720001</lat>
+    <lon>-116.012001</lon>
+  </camera>
+  <camera DeviceID="TL-300125" ID="TL-300125" Description="I-80 and Carlin Tunnel East WB (Thermal)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300125.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_east_wb_(thermal)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.720798</lat>
+    <lon>-116.012199</lon>
+  </camera>
+  <camera DeviceID="TL-300102" ID="TL-300102" Description="I-80 and Carlin Tunnel West 1" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300102.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_west_1_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.7233</lat>
+    <lon>-116.016998</lon>
+  </camera>
+  <camera DeviceID="TL-300119" ID="TL-300119" Description="I-80 and Carlin Tunnel West 2" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300119.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_west_2_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.723999</lat>
+    <lon>-116.018997</lon>
+  </camera>
+  <camera DeviceID="TL-300120" ID="TL-300120" Description="I-80 and Carlin Tunnel West EB (Thermal)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300120.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_west_eb_(thermal)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.722</lat>
+    <lon>-116.015998</lon>
+  </camera>
+  <camera DeviceID="TL-300124" ID="TL-300124" Description="I-80 and Carlin Tunnel West WB (Thermal)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300124.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_carlin_tunnel_west_wb_(thermal)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.7229</lat>
+    <lon>-116.015899</lon>
+  </camera>
+  <camera DeviceID="TL-300111" ID="TL-300111" Description="I-80 and Deeth" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300111.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_deeth_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>41.085998</lat>
+    <lon>-115.2304</lon>
+  </camera>
+  <camera DeviceID="TL-300101" ID="TL-300101" Description="I-80 and East Elko" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300101.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_east_elko_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.8656</lat>
+    <lon>-115.734001</lon>
+  </camera>
+  <camera DeviceID="TL-300104" ID="TL-300104" Description="I-80 and Emigrant Summit" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300104.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_emigrant_summit_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.654701</lat>
+    <lon>-116.276603</lon>
+  </camera>
+  <camera DeviceID="TL-300129" ID="TL-300129" Description="I-80 and Golconda Summit EB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300129.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_golconda_summit_eb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.921199</lat>
+    <lon>-117.3908</lon>
+  </camera>
+  <camera DeviceID="TL-300107" ID="TL-300107" Description="I-80 and Golconda Summit WB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300107.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_golconda_summit_wb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.921199</lat>
+    <lon>-117.393798</lon>
+  </camera>
+  <camera DeviceID="TL-300108" ID="TL-300108" Description="I-80 and Halleck" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300108.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_halleck_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.957</lat>
+    <lon>-115.478599</lon>
+  </camera>
+  <camera DeviceID="TL-300130" ID="TL-300130" Description="I-80 and Moor East" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300130.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_moor_east_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>41.1035</lat>
+    <lon>-114.904899</lon>
+  </camera>
+  <camera DeviceID="TL-300109" ID="TL-300109" Description="I-80 and Pequop Summit" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300109.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_pequop_summit_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>41.0783</lat>
+    <lon>-114.569602</lon>
+  </camera>
+  <camera DeviceID="TL-300110" ID="TL-300110" Description="I-80 and Pilot Valley" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300110.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_pilot_valley_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.844699</lat>
+    <lon>-114.2107</lon>
+  </camera>
+  <camera DeviceID="TL-300126" ID="TL-300126" Description="I-80 and SR225 North" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300126.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_sr225_north_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.8358</lat>
+    <lon>-115.788597</lon>
+  </camera>
+  <camera DeviceID="TL-300127" ID="TL-300127" Description="I-80 and SR225 South" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300127.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_sr225_south_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.8362</lat>
+    <lon>-115.785102</lon>
+  </camera>
+  <camera DeviceID="TL-300112" ID="TL-300112" Description="I-80 and Wells West" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300112.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_wells_west_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>41.105098</lat>
+    <lon>-114.9878</lon>
+  </camera>
+  <camera DeviceID="TL-300117" ID="TL-300117" Description="I-80 and Wendover" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300117.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_wendover_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.743598</lat>
+    <lon>-114.065399</lon>
+  </camera>
+  <camera DeviceID="TL-300100" ID="TL-300100" Description="I-80 and West Elko" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300100.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_west_elko_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.801399</lat>
+    <lon>-115.835197</lon>
+  </camera>
+  <camera DeviceID="TL-300128" ID="TL-300128" Description="I-80 and Winnemucca" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300128.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_winnemucca_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.971099</lat>
+    <lon>-117.744201</lon>
+  </camera>
+  <camera DeviceID="TL-200106" ID="TL-200106" Description="I-80 at Boomtown Garson Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200106.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-80_at_boomtown_garson_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.511257</lat>
+    <lon>-119.965316</lon>
+  </camera>
+  <camera DeviceID="TL-200120" ID="TL-200120" Description="I-80 at Center St Onramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200120.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_center_st_onramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.534599</lat>
+    <lon>-119.814201</lon>
+  </camera>
+  <camera DeviceID="TL-200123" ID="TL-200123" Description="I-80 at E 4th St Kietzke Ln" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200123.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_e_4th_st_kietzke_ln_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.534198</lat>
+    <lon>-119.776199</lon>
+  </camera>
+  <camera DeviceID="TL-200127" ID="TL-200127" Description="I-80 at E McCarran Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200127.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_e_mccarran_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.533199</lat>
+    <lon>-119.737503</lon>
+  </camera>
+  <camera DeviceID="TL-200101" ID="TL-200101" Description="I-80 at Exit 1 Gold Ranch" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200101.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-80_at_exit_1_gold_ranch_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.496799</lat>
+    <lon>-119.998001</lon>
+  </camera>
+  <camera DeviceID="TL-200102" ID="TL-200102" Description="I-80 at Exit 2 Gold Ranch" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200102.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-80_at_exit_2_gold_ranch_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.507701</lat>
+    <lon>-119.999198</lon>
+  </camera>
+  <camera DeviceID="TL-200108" ID="TL-200108" Description="I-80 at Exit 5 Verdi" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200108.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-80_at_exit_5_verdi_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.511901</lat>
+    <lon>-119.9468</lon>
+  </camera>
+  <camera DeviceID="TL-200151" ID="TL-200151" Description="I-80 at Fernley N E" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200151.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_fernley_ne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.617141</lat>
+    <lon>-119.265953</lon>
+  </camera>
+  <camera DeviceID="TL-200152" ID="TL-200152" Description="I-80 at Fernley S W" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200152.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_fernley_sw_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.617134</lat>
+    <lon>-119.266059</lon>
+  </camera>
+  <camera DeviceID="TL-200117" ID="TL-200117" Description="I-80 at Keystone Ave" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200117.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_keyston_ave_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.5302</lat>
+    <lon>-119.829597</lon>
+  </camera>
+  <camera DeviceID="TL-200170" ID="TL-200170" Description="I-80 at Lovelock" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200170.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_lovelock_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.176998</lat>
+    <lon>-118.471496</lon>
+  </camera>
+  <camera DeviceID="TL-200110" ID="TL-200110" Description="I-80 at Mogul Overlook" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200110.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-80_at_mogul_overlook_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.509601</lat>
+    <lon>-119.9375</lon>
+  </camera>
+  <camera DeviceID="TL-200134" ID="TL-200134" Description="I-80 at Mustang" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200134.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us95_south_of_fallon_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.522327</lat>
+    <lon>-119.625862</lon>
+  </camera>
+  <camera DeviceID="TL-200125" ID="TL-200125" Description="I-80 at Nugget" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200125.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_nugget_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.533699</lat>
+    <lon>-119.757896</lon>
+  </camera>
+  <camera DeviceID="TL-200126" ID="TL-200126" Description="I-80 at Pyramid Way" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200126.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_pyramid_way_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.534301</lat>
+    <lon>-119.753303</lon>
+  </camera>
+  <camera DeviceID="TL-200112" ID="TL-200112" Description="I-80 at Robb Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200112.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_robb_dr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.515399</lat>
+    <lon>-119.887496</lon>
+  </camera>
+  <camera DeviceID="TL-200124" ID="TL-200124" Description="I-80 at Rock Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200124.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_rock_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.5335</lat>
+    <lon>-119.765296</lon>
+  </camera>
+  <camera DeviceID="TL-200118" ID="TL-200118" Description="I-80 at Sierra St Onramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200118.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_sierra_st_onramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.534</lat>
+    <lon>-119.819602</lon>
+  </camera>
+  <camera DeviceID="TL-200129" ID="TL-200129" Description="I-80 at Sparks Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200129.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_sparks_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.5284</lat>
+    <lon>-119.715599</lon>
+  </camera>
+  <camera DeviceID="TL-200128" ID="TL-200128" Description="I-80 at Sparks Marina" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200128.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_sparks_marina_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.529499</lat>
+    <lon>-119.728897</lon>
+  </camera>
+  <camera DeviceID="TL-200116" ID="TL-200116" Description="I-80 at Stoker Overpass" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200116.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_stoker_overpass_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.526901</lat>
+    <lon>-119.839401</lon>
+  </camera>
+  <camera DeviceID="TL-200138" ID="TL-200138" Description="I-80 at Tracy-Clark" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200138.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/i-80_at_tracy-clark_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.5699</lat>
+    <lon>-119.526603</lon>
+  </camera>
+  <camera DeviceID="TL-200119" ID="TL-200119" Description="I-80 at Virginia St Overpass" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200119.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_virginia_st_overpass_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.534599</lat>
+    <lon>-119.815902</lon>
+  </camera>
+  <camera DeviceID="TL-200130" ID="TL-200130" Description="I-80 at Vista Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200130.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_vista_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.526401</lat>
+    <lon>-119.700202</lon>
+  </camera>
+  <camera DeviceID="TL-200114" ID="TL-200114" Description="I-80 at W McCarran Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200114.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_w_mccarran_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.524101</lat>
+    <lon>-119.862098</lon>
+  </camera>
+  <camera DeviceID="TL-200122" ID="TL-200122" Description="I-80 at Wells Ave" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200122.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_at_wells_ave_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.536201</lat>
+    <lon>-119.8012</lon>
+  </camera>
+  <camera DeviceID="TL-200113" ID="TL-200113" Description="I-80 Between Robb and McCarran" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200113.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_between_robb_and_mccarran_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.518001</lat>
+    <lon>-119.874298</lon>
+  </camera>
+  <camera DeviceID="TL-200115" ID="TL-200115" Description="I-80 East of W McCarran" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200115.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/i-80_east_of_w_mccarran_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.527</lat>
+    <lon>-119.853599</lon>
+  </camera>
+  <camera DeviceID="TL-300133" ID="TL-300133" Description="I-80 Emigrant EB Chain Up MM263" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300133.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_emigrant_eb_chain_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.641799</lat>
+    <lon>-116.329101</lon>
+  </camera>
+  <camera DeviceID="TL-300132" ID="TL-300132" Description="I-80 Emigrant WB Chain Up MM275" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300132.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i80_emigrant_wb_chain_mm275_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.6609</lat>
+    <lon>-116.246498</lon>
+  </camera>
+  <camera DeviceID="TL-300131" ID="TL-300131" Description="I-80 Golconda East Bound MM196 Chain Up" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300131.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/i-80_and_golconda_eb_cstr_mm196_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.926799</lat>
+    <lon>-117.433998</lon>
+  </camera>
+  <camera DeviceID="TL-102165" ID="TL-102165" Description="Jones and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102165.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/jones_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.065299</lat>
+    <lon>-115.224502</lon>
+  </camera>
+  <camera DeviceID="TL-102045" ID="TL-102045" Description="Jones and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102045.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/jones_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.068</lat>
+    <lon>-115.224403</lon>
+  </camera>
+  <camera DeviceID="TL-105010" ID="TL-105010" Description="Lake Mead and Boulder Highway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105010.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/lake_mead_and_boulder_highway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.03963</lat>
+    <lon>-114.982429</lon>
+  </camera>
+  <camera DeviceID="TL-103471" ID="TL-103471" Description="Lake Mead and CC-215" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103471.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/lake_mead_and_cc-215_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.205398</lat>
+    <lon>-115.340599</lon>
+  </camera>
+  <camera DeviceID="TL-105180" ID="TL-105180" Description="Lake Mead and Center" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105180.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/lake_mead_and_center_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.055156</lat>
+    <lon>-114.967643</lon>
+  </camera>
+  <camera DeviceID="TL-102001" ID="TL-102001" Description="Lake Mead and Hollywood" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102001.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/lake_mead_and_hollywood_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.195503</lat>
+    <lon>-115.026481</lon>
+  </camera>
+  <camera DeviceID="TL-102140" ID="TL-102140" Description="Las Vegas and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102140.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/las_vegas_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.061698</lat>
+    <lon>-115.171997</lon>
+  </camera>
+  <camera DeviceID="TL-102139" ID="TL-102139" Description="Las Vegas and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102139.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/las_vegas_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0657</lat>
+    <lon>-115.172897</lon>
+  </camera>
+  <camera DeviceID="TL-102514" ID="TL-102514" Description="Las Vegas Blvd and Cactus" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102514.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/las_vegas_blvd_and_cactus_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.999198</lat>
+    <lon>-115.172599</lon>
+  </camera>
+  <camera DeviceID="TL-102085" ID="TL-102085" Description="Las Vegas Blvd and Pebble" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102085.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/las_vegas_blvd_and_pebble_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.028499</lat>
+    <lon>-115.172401</lon>
+  </camera>
+  <camera DeviceID="TL-102179" ID="TL-102179" Description="Las Vegas Blvd and Silverado Ranch" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102179.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/las_vegas_blvd_and_silverado_ranch_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.013698</lat>
+    <lon>-115.172302</lon>
+  </camera>
+  <camera DeviceID="TL-103197" ID="TL-103197" Description="Las Vegas Blvd and Washington" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103197.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/las_vegas_blvd_and_washington_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1814</lat>
+    <lon>-115.1343</lon>
+  </camera>
+  <camera DeviceID="TL-102006" ID="TL-102006" Description="Las Vegas Blvd and Windmill" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102006.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/las_vegas_blvd_and_windmill_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.042156</lat>
+    <lon>-115.17263</lon>
+  </camera>
+  <camera DeviceID="TL-103306" ID="TL-103306" Description="Las Vegas Blvd at Baltimore" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103306.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_baltimore_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.14635</lat>
+    <lon>-115.155471</lon>
+  </camera>
+  <camera DeviceID="TL-121603" ID="TL-121603" Description="Las Vegas Blvd at Bellagio" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-121603.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_bellagio_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.110698</lat>
+    <lon>-115.173797</lon>
+  </camera>
+  <camera DeviceID="TL-102256" ID="TL-102256" Description="Las Vegas Blvd at Caesars Palace Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102256.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_caesars_palace_dr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.117198</lat>
+    <lon>-115.173103</lon>
+  </camera>
+  <camera DeviceID="TL-102310" ID="TL-102310" Description="Las Vegas Blvd at Cathedral" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102310.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_cathedral_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.131401</lat>
+    <lon>-115.165397</lon>
+  </camera>
+  <camera DeviceID="TL-102175" ID="TL-102175" Description="Las Vegas Blvd at Circus Circus Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102175.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_circus_circus_dr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.137599</lat>
+    <lon>-115.160896</lon>
+  </camera>
+  <camera DeviceID="TL-124171" ID="TL-124171" Description="Las Vegas Blvd at City Center NW" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-124171.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_city_center_nw_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.106777</lat>
+    <lon>-115.173278</lon>
+  </camera>
+  <camera DeviceID="TL-102101" ID="TL-102101" Description="Las Vegas Blvd at Convention Center Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102101.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_convention_center_dr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1329</lat>
+    <lon>-115.163902</lon>
+  </camera>
+  <camera DeviceID="TL-122612" ID="TL-122612" Description="Las Vegas Blvd at Fashion Show" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-122612.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_fashion_show_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.128299</lat>
+    <lon>-115.167198</lon>
+  </camera>
+  <camera DeviceID="TL-102062" ID="TL-102062" Description="Las Vegas Blvd at Four Seasons" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102062.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_four_seasons_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0914</lat>
+    <lon>-115.172599</lon>
+  </camera>
+  <camera DeviceID="TL-124892" ID="TL-124892" Description="Las Vegas Blvd at Hacienda" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-124892.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_hacienda_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.096099</lat>
+    <lon>-115.172401</lon>
+  </camera>
+  <camera DeviceID="TL-121531" ID="TL-121531" Description="Las Vegas Blvd at Harmon Median" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-121531.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_harmon_median_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.106601</lat>
+    <lon>-115.173103</lon>
+  </camera>
+  <camera DeviceID="TL-102395" ID="TL-102395" Description="Las Vegas Blvd at Harrahs" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102395.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_harrahs_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1208</lat>
+    <lon>-115.171897</lon>
+  </camera>
+  <camera DeviceID="TL-124042" ID="TL-124042" Description="Las Vegas Blvd at Luxor" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-124042.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_luxor_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.097499</lat>
+    <lon>-115.1735</lon>
+  </camera>
+  <camera DeviceID="TL-124891" ID="TL-124891" Description="Las Vegas Blvd at Mandalay Bay" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-124891.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_mandalay_bay_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.094898</lat>
+    <lon>-115.173599</lon>
+  </camera>
+  <camera DeviceID="TL-124821" ID="TL-124821" Description="Las Vegas Blvd at MGM_Park" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-124821.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_mgm_park_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.105598</lat>
+    <lon>-115.172599</lon>
+  </camera>
+  <camera DeviceID="TL-121601" ID="TL-121601" Description="Las Vegas Blvd at Paris" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-121601.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_paris_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.111301</lat>
+    <lon>-115.172401</lon>
+  </camera>
+  <camera DeviceID="TL-124822" ID="TL-124822" Description="Las Vegas Blvd at Park Ave" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-124822.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_park_ave_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1049</lat>
+    <lon>-115.172698</lon>
+  </camera>
+  <camera DeviceID="TL-121602" ID="TL-121602" Description="Las Vegas Blvd at Planet Hollywood" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-121602.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_planet_hollywood_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.110801</lat>
+    <lon>-115.172698</lon>
+  </camera>
+  <camera DeviceID="TL-124041" ID="TL-124041" Description="Las Vegas Blvd at Reno" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-124041.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_reno_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0979</lat>
+    <lon>-115.1725</lon>
+  </camera>
+  <camera DeviceID="TL-102488" ID="TL-102488" Description="Las Vegas Blvd at Russell Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102488.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_russell_rd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.086498</lat>
+    <lon>-115.172897</lon>
+  </camera>
+  <camera DeviceID="TL-103191" ID="TL-103191" Description="Las Vegas Blvd at Sahara" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103191.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_sahara_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.14384</lat>
+    <lon>-115.157104</lon>
+  </camera>
+  <camera DeviceID="TL-102327" ID="TL-102327" Description="Las Vegas BLVD at SLS Way" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102327.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_sls_way_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.141799</lat>
+    <lon>-115.159202</lon>
+  </camera>
+  <camera DeviceID="TL-102192" ID="TL-102192" Description="Las Vegas Blvd at Spring Mountain Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102192.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_spring_mountain_rd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.125801</lat>
+    <lon>-115.1688</lon>
+  </camera>
+  <camera DeviceID="TL-102071" ID="TL-102071" Description="Las Vegas Blvd at Sunset" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102071.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_sunset_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.071498</lat>
+    <lon>-115.171997</lon>
+  </camera>
+  <camera DeviceID="TL-102311" ID="TL-102311" Description="Las Vegas Blvd at Treasure Island" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102311.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_treasure_island_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1236</lat>
+    <lon>-115.169799</lon>
+  </camera>
+  <camera DeviceID="TL-102061" ID="TL-102061" Description="Las Vegas Blvd at Venetian" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102061.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_venetian_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1222</lat>
+    <lon>-115.170898</lon>
+  </camera>
+  <camera DeviceID="TL-102014" ID="TL-102014" Description="Las Vegas Blvd at Warm Springs Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102014.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/las_vegas_blvd_at_warm_springs_rd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.057399</lat>
+    <lon>-115.172698</lon>
+  </camera>
+  <camera DeviceID="TL-184002" ID="TL-184002" Description="Las Vegas Blvd at Welcome Sign (stationary)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-184002.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_welcome_sign_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0811</lat>
+    <lon>-115.172698</lon>
+  </camera>
+  <camera DeviceID="TL-122611" ID="TL-122611" Description="Las Vegas Blvd at Wynn" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-122611.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/las_vegas_blvd_at_wynn_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.128101</lat>
+    <lon>-115.168197</lon>
+  </camera>
+  <camera DeviceID="TL-104177" ID="TL-104177" Description="Las Vegas Boulevard and Lake Mead" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-104177.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/las_vegas_boulevard_and_lake_mead_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.195701</lat>
+    <lon>-115.129379</lon>
+  </camera>
+  <camera DeviceID="TL-103297" ID="TL-103297" Description="Lone Mountian and CC-215" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103297.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/lone_mountian_and_cc-215_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.248001</lat>
+    <lon>-115.315299</lon>
+  </camera>
+  <camera DeviceID="TL-102089" ID="TL-102089" Description="LV Blvd and Cheyenne" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102089.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/lv_blvd_and_cheyenne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2177</lat>
+    <lon>-115.093399</lon>
+  </camera>
+  <camera DeviceID="TL-102449" ID="TL-102449" Description="LV Blvd and Lamb" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102449.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/lv_blvd_and_lamb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.225418</lat>
+    <lon>-115.07991</lon>
+  </camera>
+  <camera DeviceID="TL-102003" ID="TL-102003" Description="LV Blvd and Range" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102003.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/lv_blvd_and_range_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2555</lat>
+    <lon>-115.030799</lon>
+  </camera>
+  <camera DeviceID="TL-103349" ID="TL-103349" Description="MLK and Lake Mead" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103349.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/mlk_and_lake_mead_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.195098</lat>
+    <lon>-115.161598</lon>
+  </camera>
+  <camera DeviceID="TL-103353" ID="TL-103353" Description="N Durango and 215 EB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103353.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/n_durango_and_215_eb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.27898</lat>
+    <lon>-115.287597</lon>
+  </camera>
+  <camera DeviceID="TL-103352" ID="TL-103352" Description="N Durango and 215 WB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103352.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/n_durango_and_215_wb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.280849</lat>
+    <lon>-115.287826</lon>
+  </camera>
+  <camera DeviceID="TL-200512" ID="TL-200512" Description="N McCarran at 4th St" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200512.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/n_mccarran_at_4th_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.5564</lat>
+    <lon>-119.748397</lon>
+  </camera>
+  <camera DeviceID="TL-200511" ID="TL-200511" Description="N McCarran at Pyramid" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200511.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/n_mccarran_at_pyramid_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.556499</lat>
+    <lon>-119.752502</lon>
+  </camera>
+  <camera DeviceID="TL-200510" ID="TL-200510" Description="N McCarran at Rock Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200510.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/n_mccarran_at_rock_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.556499</lat>
+    <lon>-119.761802</lon>
+  </camera>
+  <camera DeviceID="TL-102337" ID="TL-102337" Description="Nellis and Cheyenne" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102337.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/nellis_and_cheyenne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.218517</lat>
+    <lon>-115.061965</lon>
+  </camera>
+  <camera DeviceID="TL-102336" ID="TL-102336" Description="Nellis and Lake Mead" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102336.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/nellis_and_lake_mead_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.19609</lat>
+    <lon>-115.06195</lon>
+  </camera>
+  <camera DeviceID="TL-121022" ID="TL-121022" Description="Paradise and Convention Center SE" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-121022.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/paradise_and_convention_center_se_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.134101</lat>
+    <lon>-115.154197</lon>
+  </camera>
+  <camera DeviceID="TL-150181" ID="TL-150181" Description="Pecos and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-150181.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/pecos_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.023799</lat>
+    <lon>-115.100601</lon>
+  </camera>
+  <camera DeviceID="TL-200536" ID="TL-200536" Description="Pyramid at Farr Ln" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200536.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/pyramid_at_farr_ln_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.562599</lat>
+    <lon>-119.750297</lon>
+  </camera>
+  <camera DeviceID="TL-200535" ID="TL-200535" Description="Pyramid at York Way" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200535.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/pyramid_at_york_way_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.552799</lat>
+    <lon>-119.752601</lon>
+  </camera>
+  <camera DeviceID="TL-200404" ID="TL-200404" Description="Pyramid Way at I80 EB Onramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200404.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/pyramid_way_at_i80_eb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.533699</lat>
+    <lon>-119.7527</lon>
+  </camera>
+  <camera DeviceID="TL-102451" ID="TL-102451" Description="Rainbow and Desert Inn" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102451.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/rainbow-desert_inn_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.129348</lat>
+    <lon>-115.242774</lon>
+  </camera>
+  <camera DeviceID="TL-102083" ID="TL-102083" Description="Rainbow and Flamingo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102083.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/rainbow-flamingo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.114807</lat>
+    <lon>-115.242767</lon>
+  </camera>
+  <camera DeviceID="TL-102163" ID="TL-102163" Description="Rainbow and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102163.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/rainbow_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.064998</lat>
+    <lon>-115.242897</lon>
+  </camera>
+  <camera DeviceID="TL-102069" ID="TL-102069" Description="Rainbow and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102069.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/rainbow_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0676</lat>
+    <lon>-115.2425</lon>
+  </camera>
+  <camera DeviceID="TL-103429" ID="TL-103429" Description="RAINBOW and OAKEY" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103429.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/rainbow_and_oakey_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.151512</lat>
+    <lon>-115.24356</lon>
+  </camera>
+  <camera DeviceID="TL-102060" ID="TL-102060" Description="Rainbow and Spring Mountain" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102060.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/rainbow-spring_mountain_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.125598</lat>
+    <lon>-115.243301</lon>
+  </camera>
+  <camera DeviceID="TL-102171" ID="TL-102171" Description="Rainbow and Warm Springs" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102171.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/rainbow-warm_springs_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.055698</lat>
+    <lon>-115.242897</lon>
+  </camera>
+  <camera DeviceID="TL-103317" ID="TL-103317" Description="Rampart and Lake Mead" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103317.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/rampart_and_lake_mead_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.199909</lat>
+    <lon>-115.282127</lon>
+  </camera>
+  <camera DeviceID="TL-103577" ID="TL-103577" Description="Rampart and Summerlin Pkwy EB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103577.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/rampart_and_summerlin_pkwy_eb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.177398</lat>
+    <lon>-115.287101</lon>
+  </camera>
+  <camera DeviceID="TL-103027" ID="TL-103027" Description="Rampart and Summerlin Pkwy WB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103027.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/rampart_and_summerlin_pkwy_wb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.179016</lat>
+    <lon>-115.28746</lon>
+  </camera>
+  <camera DeviceID="TL-103028" ID="TL-103028" Description="Rancho and Bonanza" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103028.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/rancho_and_bonanza_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.177478</lat>
+    <lon>-115.175666</lon>
+  </camera>
+  <camera DeviceID="TL-103435" ID="TL-103435" Description="Rancho and Cheyenne" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103435.jpg" StreamingURL="http://wowza2.nvfast.org:1935/bmw7/rancho_-_cheyenne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.2182</lat>
+    <lon>-115.213699</lon>
+  </camera>
+  <camera DeviceID="TL-200403" ID="TL-200403" Description="Rock Blvd at I80 WB Onramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200403.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/rock_blvd_at_i-80_wb_onramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.534198</lat>
+    <lon>-119.765701</lon>
+  </camera>
+  <camera DeviceID="TL-102193" ID="TL-102193" Description="Russell and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102193.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/russell_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.085201</lat>
+    <lon>-115.287696</lon>
+  </camera>
+  <camera DeviceID="TL-102194" ID="TL-102194" Description="Russell and CC-215 SB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102194.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/russell_and_cc-215_sb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.085399</lat>
+    <lon>-115.290496</lon>
+  </camera>
+  <camera DeviceID="TL-102161" ID="TL-102161" Description="Russell and Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102161.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/russell_and_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.08654</lat>
+    <lon>-115.207679</lon>
+  </camera>
+  <camera DeviceID="TL-102278" ID="TL-102278" Description="Russell and Paradise" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102278.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/russell_and_paradise_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0857</lat>
+    <lon>-115.144401</lon>
+  </camera>
+  <camera DeviceID="TL-102182" ID="TL-102182" Description="Russell and Rainbow" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102182.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/russell_and_rainbow_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.085899</lat>
+    <lon>-115.242301</lon>
+  </camera>
+  <camera DeviceID="TL-103145" ID="TL-103145" Description="Sahara and Boulder Highway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103145.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/sahara_and_boulder_highway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.145412</lat>
+    <lon>-115.101509</lon>
+  </camera>
+  <camera DeviceID="TL-103479" ID="TL-103479" Description="Sahara and Buffalo" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103479.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_buffalo_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.143901</lat>
+    <lon>-115.261199</lon>
+  </camera>
+  <camera DeviceID="TL-103046" ID="TL-103046" Description="Sahara and Burnham" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103046.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_burnham_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1445</lat>
+    <lon>-115.124099</lon>
+  </camera>
+  <camera DeviceID="TL-125211" ID="TL-125211" Description="Sahara and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-125211.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/sahara_and_cc-215__nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144599</lat>
+    <lon>-115.336196</lon>
+  </camera>
+  <camera DeviceID="TL-103428" ID="TL-103428" Description="Sahara and Cimarron" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103428.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_cimarron_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.143901</lat>
+    <lon>-115.269996</lon>
+  </camera>
+  <camera DeviceID="TL-103110" ID="TL-103110" Description="Sahara and Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103110.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144763</lat>
+    <lon>-115.208457</lon>
+  </camera>
+  <camera DeviceID="TL-103405" ID="TL-103405" Description="Sahara and Durango" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103405.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_durango_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144298</lat>
+    <lon>-115.278999</lon>
+  </camera>
+  <camera DeviceID="TL-103122" ID="TL-103122" Description="Sahara and Eastern" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103122.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_eastern_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144123</lat>
+    <lon>-115.119018</lon>
+  </camera>
+  <camera DeviceID="TL-103012" ID="TL-103012" Description="Sahara and Fort Apache" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103012.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_fort_apache_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144401</lat>
+    <lon>-115.297599</lon>
+  </camera>
+  <camera DeviceID="TL-103225" ID="TL-103225" Description="Sahara and Grand Canyon" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103225.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_grand_canyon_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1445</lat>
+    <lon>-115.306396</lon>
+  </camera>
+  <camera DeviceID="TL-103222" ID="TL-103222" Description="Sahara and Hualapai" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103222.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_hualapai_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144798</lat>
+    <lon>-115.315597</lon>
+  </camera>
+  <camera DeviceID="TL-103162" ID="TL-103162" Description="Sahara and I-15 East" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103162.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_i-15_east_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144298</lat>
+    <lon>-115.168502</lon>
+  </camera>
+  <camera DeviceID="TL-103329" ID="TL-103329" Description="Sahara and Jones" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103329.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/sahara_and_jones_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.146499</lat>
+    <lon>-115.223999</lon>
+  </camera>
+  <camera DeviceID="TL-103211" ID="TL-103211" Description="Sahara and Maryland" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103211.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_maryland_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144298</lat>
+    <lon>-115.137001</lon>
+  </camera>
+  <camera DeviceID="TL-103218" ID="TL-103218" Description="Sahara and McLeod" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103218.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_mcleod_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144401</lat>
+    <lon>-115.110099</lon>
+  </camera>
+  <camera DeviceID="TL-103236" ID="TL-103236" Description="Sahara and Paradise" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103236.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/sahara_and_paradise_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.143699</lat>
+    <lon>-115.1548</lon>
+  </camera>
+  <camera DeviceID="TL-103240" ID="TL-103240" Description="Sahara and Rancho" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103240.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/sahara_and_rancho_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1445</lat>
+    <lon>-115.173103</lon>
+  </camera>
+  <camera DeviceID="TL-103304" ID="TL-103304" Description="Sahara and Teddy" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103304.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_teddy_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144401</lat>
+    <lon>-115.177001</lon>
+  </camera>
+  <camera DeviceID="TL-103478" ID="TL-103478" Description="Sahara and Tenaya" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103478.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_tenaya_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144199</lat>
+    <lon>-115.251998</lon>
+  </camera>
+  <camera DeviceID="TL-103243" ID="TL-103243" Description="Sahara and Valley View" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103243.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw1/sahara_and_valley_view_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.144699</lat>
+    <lon>-115.191101</lon>
+  </camera>
+  <camera DeviceID="TL-107008" ID="TL-107008" Description="Sandhill-I-15 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-107008.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/sandhill-i-15_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.786899</lat>
+    <lon>-114.063903</lon>
+  </camera>
+  <camera DeviceID="TL-102437" ID="TL-102437" Description="Sands and Wynn South Gate" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102437.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/sands_and_wynn_south_gate_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.124801</lat>
+    <lon>-115.166999</lon>
+  </camera>
+  <camera DeviceID="TL-102296" ID="TL-102296" Description="Silverado Ranch and I-15 (west side)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102296.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/silverado_ranch_and_i-15_(west_side)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.013599</lat>
+    <lon>-115.182502</lon>
+  </camera>
+  <camera DeviceID="TL-102247" ID="TL-102247" Description="Spring Mtn and Valley View" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102247.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/spring_mtn_and_valley_view_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.125999</lat>
+    <lon>-115.189598</lon>
+  </camera>
+  <camera DeviceID="TL-200326" ID="TL-200326" Description="SR-207 Kingsbury RWIS" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200326.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr207_at_kingsbury_rwis_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>38.9607</lat>
+    <lon>-119.846702</lon>
+  </camera>
+  <camera DeviceID="TL-300115" ID="TL-300115" Description="SR-227 Lamoille Summit South MM4" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300115.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/sr-227_and_lamoille_south_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.7989</lat>
+    <lon>-115.7145</lon>
+  </camera>
+  <camera DeviceID="TL-200300" ID="TL-200300" Description="SR-28 at Crystal Bay" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200300.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr-28_at_crystal_bay_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.2303</lat>
+    <lon>-120.003501</lon>
+  </camera>
+  <camera DeviceID="TL-200304" ID="TL-200304" Description="SR-28 at Sand Harbor" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200304.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr28_at_sand_harbor_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.194801</lat>
+    <lon>-119.926696</lon>
+  </camera>
+  <camera DeviceID="TL-200360" ID="TL-200360" Description="SR-341 at Highland Flats" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200360.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr341_at_highland_flats_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.368301</lat>
+    <lon>-119.667198</lon>
+  </camera>
+  <camera DeviceID="TL-200363" ID="TL-200363" Description="SR-341 at US-50" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200363.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr341_at_us50_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.224498</lat>
+    <lon>-119.646499</lon>
+  </camera>
+  <camera DeviceID="TL-200801" ID="TL-200801" Description="SR160 at Mountain Springs Summit" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200801.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr160_at_mountain_springs_summit_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.015098</lat>
+    <lon>-115.502296</lon>
+  </camera>
+  <camera DeviceID="TL-200325" ID="TL-200325" Description="SR207 at Tramway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200325.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr207_at_tramway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>38.9766</lat>
+    <lon>-119.888603</lon>
+  </camera>
+  <camera DeviceID="TL-300106" ID="TL-300106" Description="SR227 and Lamoille Summit North" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300106.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/sr227_and_lamoille_summit_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.8017</lat>
+    <lon>-115.717796</lon>
+  </camera>
+  <camera DeviceID="TL-300118" ID="TL-300118" Description="SR229 and Ruby Valley" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-300118.jpg" StreamingURL="https://wse2.its.nv.gov:443/coloflirxcd3/sr229_and_ruby_valley_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>40.6795</lat>
+    <lon>-115.255798</lon>
+  </camera>
+  <camera DeviceID="TL-200301" ID="TL-200301" Description="SR28 South of SR431" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200301.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr28_south_of_sr431_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.250553</lat>
+    <lon>-119.964515</lon>
+  </camera>
+  <camera DeviceID="TL-200309" ID="TL-200309" Description="SR431 at 2nd Creek Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200309.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/sr431_at_2nd_creek_dr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.253799</lat>
+    <lon>-119.971199</lon>
+  </camera>
+  <camera DeviceID="TL-200311" ID="TL-200311" Description="SR431 at Brake Check Area" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200311.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr431_at_brake_check_area_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.286224</lat>
+    <lon>-119.93193</lon>
+  </camera>
+  <camera DeviceID="TL-200316" ID="TL-200316" Description="SR431 at Bullseye" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200316.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr431_at_bullseye_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.337898</lat>
+    <lon>-119.861602</lon>
+  </camera>
+  <camera DeviceID="TL-200314" ID="TL-200314" Description="SR431 at Mt. Rose Summit" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200314.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr431_at_mt_rose_summit_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.315368</lat>
+    <lon>-119.900382</lon>
+  </camera>
+  <camera DeviceID="TL-200308" ID="TL-200308" Description="SR431 at Truck Escape Ramp" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200308.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/sr431_at_truck_escape_ramp_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.2513</lat>
+    <lon>-119.983703</lon>
+  </camera>
+  <camera DeviceID="TL-200310" ID="TL-200310" Description="SR431 East of SR28" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200310.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd1/sr431_east_of_sr28_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.2523</lat>
+    <lon>-119.972999</lon>
+  </camera>
+  <camera DeviceID="TL-200312" ID="TL-200312" Description="SR431 West Side Meadows" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200312.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr431_west_side_meadows_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.300899</lat>
+    <lon>-119.920303</lon>
+  </camera>
+  <camera DeviceID="TL-200350" ID="TL-200350" Description="SR439 at Summit RWIS" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200350.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/sr439_at_summit_rwis_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.4771</lat>
+    <lon>-119.397598</lon>
+  </camera>
+  <camera DeviceID="TL-105080" ID="TL-105080" Description="St Rose and Executive air" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105080.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/st_rose_-_executive_air_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.981945</lat>
+    <lon>-115.148979</lon>
+  </camera>
+  <camera DeviceID="TL-102317" ID="TL-102317" Description="St Rose and I-15" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102317.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/st_rose_and_i-15_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.964099</lat>
+    <lon>-115.180397</lon>
+  </camera>
+  <camera DeviceID="TL-150182" ID="TL-150182" Description="St Rose and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-150182.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/st_rose_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0233</lat>
+    <lon>-115.100502</lon>
+  </camera>
+  <camera DeviceID="TL-105094" ID="TL-105094" Description="St Rose and Seven Hills" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105094.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/st_rose-seven_hills_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.998401</lat>
+    <lon>-115.125999</lon>
+  </camera>
+  <camera DeviceID="TL-105165" ID="TL-105165" Description="St Rose Pkwy and Bermuda" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105165.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/st_rose_pkwy_and_bermuda_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.977901</lat>
+    <lon>-115.155197</lon>
+  </camera>
+  <camera DeviceID="TL-105162" ID="TL-105162" Description="St Rose Pkwy and Maryland Pkwy" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105162.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/st_rose_pkwy_and_maryland_pkwy_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.991199</lat>
+    <lon>-115.136596</lon>
+  </camera>
+  <camera DeviceID="TL-105101" ID="TL-105101" Description="St. Rose and Coronado" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105101.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/st._rose_and_coronado_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.015548</lat>
+    <lon>-115.101943</lon>
+  </camera>
+  <camera DeviceID="TL-105085" ID="TL-105085" Description="St. Rose and Eastern" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105085.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/st._rose_and_eastern_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.006698</lat>
+    <lon>-115.114303</lon>
+  </camera>
+  <camera DeviceID="TL-102086" ID="TL-102086" Description="St. Rose and Las Vegas Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102086.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/st._rose_and_las_vegas_blvd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.966999</lat>
+    <lon>-115.172302</lon>
+  </camera>
+  <camera DeviceID="TL-105104" ID="TL-105104" Description="Stephanie and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105104.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/stephanie_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.029201</lat>
+    <lon>-115.046897</lon>
+  </camera>
+  <camera DeviceID="TL-103465" ID="TL-103465" Description="Summerlin and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103465.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/summerlin_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.191501</lat>
+    <lon>-115.3414</lon>
+  </camera>
+  <camera DeviceID="TL-102227" ID="TL-102227" Description="Sunset and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102227.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/sunset_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.070301</lat>
+    <lon>-115.287399</lon>
+  </camera>
+  <camera DeviceID="TL-105157" ID="TL-105157" Description="Sunset and Eastgate" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105157.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/sunset_and_cc-215_sb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.063899</lat>
+    <lon>-115.020103</lon>
+  </camera>
+  <camera DeviceID="TL-121071" ID="TL-121071" Description="Sunset and Paradise" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-121071.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/sunset_and_paradise_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.071998</lat>
+    <lon>-115.141403</lon>
+  </camera>
+  <camera DeviceID="TL-105027" ID="TL-105027" Description="Sunset Rd at Stephanie" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105027.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/sunset_rd_at_stephanie_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0638</lat>
+    <lon>-115.046302</lon>
+  </camera>
+  <camera DeviceID="TL-102123" ID="TL-102123" Description="Town Center and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102123.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/town_center_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1221</lat>
+    <lon>-115.326202</lon>
+  </camera>
+  <camera DeviceID="TL-102141" ID="TL-102141" Description="Tropicana and CC-215 NB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102141.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/tropicana_and_cc-215_nb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.100601</lat>
+    <lon>-115.291999</lon>
+  </camera>
+  <camera DeviceID="TL-102142" ID="TL-102142" Description="Tropicana and CC-215 SB" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102142.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/tropicana_and_cc-215_sb_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.100399</lat>
+    <lon>-115.295303</lon>
+  </camera>
+  <camera DeviceID="TL-102195" ID="TL-102195" Description="Tropicana and Las Vegas Boulevard" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102195.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/tropicana_and_las_vegas_boulevard_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.101058</lat>
+    <lon>-115.173233</lon>
+  </camera>
+  <camera DeviceID="TL-102238" ID="TL-102238" Description="Tropicana and Paradise" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102238.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/tropicana_and_paradise_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.100498</lat>
+    <lon>-115.149803</lon>
+  </camera>
+  <camera DeviceID="TL-102215" ID="TL-102215" Description="Tropicana at Maryland" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102215.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/tropicana_at_maryland_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.101001</lat>
+    <lon>-115.137001</lon>
+  </camera>
+  <camera DeviceID="TL-100905" ID="TL-100905" Description="US 93 NB Dam Bridge Interchange" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100905.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/us_93_nb_dam_bridge_interchange_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.011901</lat>
+    <lon>-114.762802</lon>
+  </camera>
+  <camera DeviceID="TL-200380" ID="TL-200380" Description="US 95 at Schurz" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200380.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us95_at_schurz_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>38.94067</lat>
+    <lon>-118.810699</lon>
+  </camera>
+  <camera DeviceID="TL-100201" ID="TL-100201" Description="US 95 NB MLK" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100201.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_nb_mlk_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.176898</lat>
+    <lon>-115.161697</lon>
+  </camera>
+  <camera DeviceID="TL-100222" ID="TL-100222" Description="US 95 NB N I-215 (dual)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100222.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/us_95_nb_n_i-215_(dual)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.278999</lat>
+    <lon>-115.2677</lon>
+  </camera>
+  <camera DeviceID="TL-100215" ID="TL-100215" Description="US 95 NB N of Smoke Ranch" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100215.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_nb_n_of_smoke_ranch_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.207099</lat>
+    <lon>-115.242698</lon>
+  </camera>
+  <camera DeviceID="TL-100219" ID="TL-100219" Description="US 95 NB N Rancho" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100219.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_nb_n_rancho_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.254699</lat>
+    <lon>-115.245201</lon>
+  </camera>
+  <camera DeviceID="TL-100217" ID="TL-100217" Description="US 95 NB S of Alexander" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100217.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_nb_s_of_alexander_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.229301</lat>
+    <lon>-115.245201</lon>
+  </camera>
+  <camera DeviceID="TL-100209" ID="TL-100209" Description="US 95 NB Torrey Pines" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100209.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_nb_torrey_pines_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.175098</lat>
+    <lon>-115.2313</lon>
+  </camera>
+  <camera DeviceID="TL-100207" ID="TL-100207" Description="US 95 NB W of Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100207.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_nb_w_of_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.175201</lat>
+    <lon>-115.2154</lon>
+  </camera>
+  <camera DeviceID="TL-100205" ID="TL-100205" Description="US 95 NB W of Valley View" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100205.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_nb_w_of_valley_view_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.175399</lat>
+    <lon>-115.201499</lon>
+  </camera>
+  <camera DeviceID="TL-100212" ID="TL-100212" Description="US 95 NB Washington" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100212.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_nb_washington_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.180999</lat>
+    <lon>-115.242996</lon>
+  </camera>
+  <camera DeviceID="TL-100216" ID="TL-100216" Description="US 95 SB Cheyenne" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100216.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_sb_cheyenne_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.218601</lat>
+    <lon>-115.248199</lon>
+  </camera>
+  <camera DeviceID="TL-100218" ID="TL-100218" Description="US 95 SB Craig" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100218.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_sb_craig_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.240367</lat>
+    <lon>-115.245773</lon>
+  </camera>
+  <camera DeviceID="TL-100206" ID="TL-100206" Description="US 95 SB Decatur" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100206.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_sb_decatur_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.171298</lat>
+    <lon>-115.205101</lon>
+  </camera>
+  <camera DeviceID="TL-100210" ID="TL-100210" Description="US 95 SB E of Rainbow" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100210.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_sb_e_of_rainbow_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.172</lat>
+    <lon>-115.237701</lon>
+  </camera>
+  <camera DeviceID="TL-100208" ID="TL-100208" Description="US 95 SB Jones" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100208.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_sb_jones_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.171901</lat>
+    <lon>-115.223503</lon>
+  </camera>
+  <camera DeviceID="TL-100214" ID="TL-100214" Description="US 95 SB Lake Mead" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100214.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_sb_lake_mead_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.195499</lat>
+    <lon>-115.246101</lon>
+  </camera>
+  <camera DeviceID="TL-100211" ID="TL-100211" Description="US 95 SB Rainbow Curve" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100211.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_sb_rainbow_curve_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1772</lat>
+    <lon>-115.245201</lon>
+  </camera>
+  <camera DeviceID="TL-100213" ID="TL-100213" Description="US 95 SB S of Vegas Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100213.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw2/us_95_sb_s_of_vegas_dr_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.186</lat>
+    <lon>-115.246101</lon>
+  </camera>
+  <camera DeviceID="TL-100202" ID="TL-100202" Description="US 95 SB S Rancho" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100202.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_sb_s_rancho_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1744</lat>
+    <lon>-115.172897</lon>
+  </camera>
+  <camera DeviceID="TL-100204" ID="TL-100204" Description="US 95 SB Valley View" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100204.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_sb_valley_view_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1744</lat>
+    <lon>-115.193099</lon>
+  </camera>
+  <camera DeviceID="TL-100203" ID="TL-100203" Description="US 95 SB W of Rancho" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100203.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us_95_sb_w_of_rancho_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.174198</lat>
+    <lon>-115.182601</lon>
+  </camera>
+  <camera DeviceID="TL-200290" ID="TL-200290" Description="US-395 at Gardnerville RWIS" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200290.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_gardnerville_rwis_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>38.920398</lat>
+    <lon>-119.722297</lon>
+  </camera>
+  <camera DeviceID="TL-105132" ID="TL-105132" Description="US-93 and Buchanan (Boulder City)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105132.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us-93_and_buchanan_(boulder_city)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.976398</lat>
+    <lon>-114.846</lon>
+  </camera>
+  <camera DeviceID="TL-105133" ID="TL-105133" Description="US-93 and Veterans Memorial" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105133.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us-93_and_veterans_memorial_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.967498</lat>
+    <lon>-114.868103</lon>
+  </camera>
+  <camera DeviceID="TL-100900" ID="TL-100900" Description="US-93 SB NV Way (DMS 73)" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-100900.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw4/us-93_sb_nv_way_(dms_73)_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>35.988498</lat>
+    <lon>-114.832801</lon>
+  </camera>
+  <camera DeviceID="TL-200370" ID="TL-200370" Description="US-95A at Wabuska" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200370.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us95a_at_wabuska_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.164901</lat>
+    <lon>-119.195602</lon>
+  </camera>
+  <camera DeviceID="TL-200270" ID="TL-200270" Description="US395 at Airport Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200270.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_airport_rd_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>38.999298</lat>
+    <lon>-119.780197</lon>
+  </camera>
+  <camera DeviceID="TL-200201" ID="TL-200201" Description="US395 at Cold Springs" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200201.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_cold_springs_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.649299</lat>
+    <lon>-119.976501</lon>
+  </camera>
+  <camera DeviceID="TL-200295" ID="TL-200295" Description="US395 at Holbrook Jct" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200295.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_holbrook_jct_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>38.727798</lat>
+    <lon>-119.555496</lon>
+  </camera>
+  <camera DeviceID="TL-200207" ID="TL-200207" Description="US395 at Lemmon Dr" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200207.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_lemmon_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.613998</lat>
+    <lon>-119.8572</lon>
+  </camera>
+  <camera DeviceID="TL-200210" ID="TL-200210" Description="US395 at N Virginia" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200210.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_n_virginia_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.591201</lat>
+    <lon>-119.827301</lon>
+  </camera>
+  <camera DeviceID="TL-200216" ID="TL-200216" Description="US395 at Oddie Blvd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200216.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_oddie_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.545898</lat>
+    <lon>-119.788101</lon>
+  </camera>
+  <camera DeviceID="TL-200203" ID="TL-200203" Description="US395 at Red Rock Rd" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200203.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_red_rock_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.625301</lat>
+    <lon>-119.9122</lon>
+  </camera>
+  <camera DeviceID="TL-200205" ID="TL-200205" Description="US395 at Stead" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200205.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us395_at_stead_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.6151</lat>
+    <lon>-119.863197</lon>
+  </camera>
+  <camera DeviceID="TL-200327" ID="TL-200327" Description="US50 at Cave Rock" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200327.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us50_at_cave_rock_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.048091</lat>
+    <lon>-119.946899</lon>
+  </camera>
+  <camera DeviceID="TL-200330" ID="TL-200330" Description="US50 at Golf Club" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200330.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us50_at_golf_club_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.117488</lat>
+    <lon>-119.845008</lon>
+  </camera>
+  <camera DeviceID="TL-200329" ID="TL-200329" Description="US50 at Spooner Summit" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200329.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us50_at_spooner_summit_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.104</lat>
+    <lon>-119.896598</lon>
+  </camera>
+  <camera DeviceID="TL-200335" ID="TL-200335" Description="US50 at SR439 Roundabout" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200335.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us50_at_sr439_roundabout_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.401901</lat>
+    <lon>-119.264297</lon>
+  </camera>
+  <camera DeviceID="TL-200345" ID="TL-200345" Description="US95 at Luning" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200345.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us95_at_luning_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>38.54</lat>
+    <lon>-118.365402</lon>
+  </camera>
+  <camera DeviceID="TL-200340" ID="TL-200340" Description="US95 at Trinity" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-200340.jpg" StreamingURL="https://wse1.its.nv.gov:443/coloflirxcd2/us95_at_trinity_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>39.9374</lat>
+    <lon>-118.749</lon>
+  </camera>
+  <camera DeviceID="TL-150211" ID="TL-150211" Description="Valle Verde and I-215 WB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-150211.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw6/valle_verde_and_i-215_wb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.0274</lat>
+    <lon>-115.063003</lon>
+  </camera>
+  <camera DeviceID="TL-103253" ID="TL-103253" Description="Valley View and Meadows Lane" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-103253.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/valley_view_and_meadows_lane_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.1702</lat>
+    <lon>-115.192802</lon>
+  </camera>
+  <camera DeviceID="TL-102103" ID="TL-102103" Description="Warm Springs and 215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-102103.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw7/warm_springs_and_215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.057201</lat>
+    <lon>-115.144203</lon>
+  </camera>
+  <camera DeviceID="TL-105060" ID="TL-105060" Description="Warm Springs and Stephanie" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-105060.jpg" StreamingURL="https://wowza1.nvfast.org:443/bmw3/warm_springs_and_stephanie_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.056598</lat>
+    <lon>-115.045898</lon>
+  </camera>
+  <camera DeviceID="TL-123051" ID="TL-123051" Description="Windmill and I-215 EB Beltway" CameraImageURL="http://imageserver.511nv.com/SnapShot/320x240/TL-123051.jpg" StreamingURL="https://wowza2.nvfast.org:443/bmw5/windmill_and_i-215_eb_beltway_public.stream/playlist.m3u8" IconURL="images/cctv.png" LastUpdate="12:00:00 AM 1/1/0001">
+    <lat>36.042999</lat>
+    <lon>-115.135597</lon>
+  </camera>
+</cameras></string>
