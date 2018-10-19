@@ -201,4 +201,4 @@ def list_cameras():
     for camera in cameras["changes"]["com.orci.opentms.web.public511.components.camera.shared.data.CameraBean"]["changes"]:
         cam = camera["entity"]
         v = cam["realTimeStreamUrl"]
-        yield {"description": "{} {}".format(cam["route"],cam["description"]), "geo": [cam["y"],cam["x"]], "id": v.split("/")[-1], "format": v}
+        yield {"description": "{} {}".format(cam["route"],cam["description"]), "geo": {"lat": cam["y"], "lon": cam["x"]}, "id": v.split("/")[-1], "format": v}

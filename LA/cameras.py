@@ -443,4 +443,4 @@ def list_cameras():
                 out.append(view["videoPreviewUrl"])
             elif view["type"] == "EXTERNAL_PAGE":
                 out.append("http://www.lafayettela.gov/cameras/getTCamera.aspx?ptzId={}".format(view["url"].split("=")[-1]))
-        yield {"description": camera["name"], "geo": [camera["location"]["latitude"],camera["location"]["longitude"]], "id": camera["id"], "format": out}
+        yield {"description": camera["name"], "geo": {"lat": camera["location"]["latitude"], "lon": camera["location"]["longitude"]}, "id": camera["id"], "format": out}

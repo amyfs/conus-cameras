@@ -349,4 +349,4 @@ cameras = [{"name":"birmingham","entries":[{"id":20,"controlType":"4","imageSupp
 def list_cameras():
     for region in cameras:
         for camera in region["entries"]:
-            yield {"description": "{} / {}".format(camera["primaryRoad"],camera["crossStreet"]), "geo": [camera["latitude"],camera["longitude"]], "id": camera["name"], "format": camera["imageUrl"]}
+            yield {"description": "{} / {}".format(camera["primaryRoad"],camera["crossStreet"]), "geo": {"lat":camera["latitude"], "lon": camera["longitude"]}, "id": camera["name"], "format": camera["imageUrl"]}

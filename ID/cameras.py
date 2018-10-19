@@ -353,4 +353,4 @@ cameras = [{"id":1,"public":True,"name":"Shoshone County Line","lastUpdated":153
 def list_cameras():
     for camera in cameras:
         gcam = camera["location"]
-        yield {"description": camera["name"], "geo": [gcam["latitude"],gcam["longitude"]], "id": camera["id"], "format": [i["url"] for i in camera["views"]]}
+        yield {"description": camera["name"], "geo": {"lat": gcam["latitude"], "lon": gcam["longitude"]}, "id": camera["id"], "format": [i["url"] for i in camera["views"]]}

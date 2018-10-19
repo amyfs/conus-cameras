@@ -106,4 +106,4 @@ cameras = [{"id":"3559","name":"US-1 / RI-78","lat":41.35746,"lng":-71.807365,"u
 
 def list_cameras():
     for item in cameras:
-        yield {"description": item["name"], "geo": [item["lat"],item["lng"]], "id": item["id"], "format": "https://web.mapquestapi.com/traffic/v2/cameraImage?key=Cmjtd|luur2108n1,7w=o5-gz8a&id={}".format(item["id"])}
+        yield {"description": item["name"], "geo": {"lat": item["lat"], "lon": item["lng"]}, "id": item["id"], "format": "https://web.mapquestapi.com/traffic/v2/cameraImage?key=Cmjtd|luur2108n1,7w=o5-gz8a&id={}".format(item["id"])}

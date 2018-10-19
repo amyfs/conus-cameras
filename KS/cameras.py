@@ -227,4 +227,4 @@ cameras = {"displayFieldName":"did","fieldAliases":{"did":"did","rid":"rid","rty
 def list_cameras():
     for camera in cameras["features"]:
         cam = camera["attributes"]
-        yield {"description": cam["location"], "geo": [cam["lat"],cam["lon"]], "id": cam["did"], "format": f"http://www.kandrive.org/cameras/{cam['url']}"}
+        yield {"description": cam["location"], "geo": {"lat": cam["lat"],"lon":cam["lon"]}, "id": cam["did"], "format": f"http://www.kandrive.org/cameras/{cam['url']}"}

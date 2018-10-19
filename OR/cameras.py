@@ -650,5 +650,5 @@ cameras = {"fields":[{"name":"cameraId","alias":"Camera ID","type":"esriFieldTyp
 def list_cameras():
     for camera in cameras["features"]:
         cam = camera["attributes"]
-        gcam = [cam["latitude"],cam["longitude"]]
+        gcam = {"lat": cam["latitude"], "lon": cam["longitude"]}
         yield {"description": cam["title"], "geo": gcam, "id": cam["publishedImageId"], "format": f"https://tripcheck.com/RoadCams/cams/{cam['filename']}"}

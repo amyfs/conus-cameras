@@ -13,10 +13,10 @@ def list_cameras():
     #print(ET.tostring(root[0]))
     for child in root:
         yield {"description": child.find('ns1:Description',ns).text,
-               "geo": [
-                   child.find('ns1:Lat',ns).text,
-                   child.find('ns1:Lon',ns).text
-               ],
+               "geo": {
+                   "lat": child.find('ns1:Lat',ns).text,
+                   "lon": child.find('ns1:Lon',ns).text
+               },
                "id": child.find('ns1:ID',ns).text,
                "format": child.find('ns1:CameraImageURL',ns).text
             }

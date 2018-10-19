@@ -153,4 +153,4 @@ cameras = {"cameraInfo":[{"sdpFileMedRes":"","mobile":False,"videoServer":"rtmp:
 
 def list_cameras():
     for camera in cameras["cameraInfo"]:
-        yield {"description": camera["title"], "geo": [camera["lat"],camera["lon"]], "id": camera["name"], "format": camera["snapshotFile"].replace("\\","")}
+        yield {"description": camera["title"], "geo": {"lat": camera["lat"],"lon": camera["lon"]}, "id": camera["name"], "format": camera["snapshotFile"].replace("\\","")}

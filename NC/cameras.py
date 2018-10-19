@@ -429,6 +429,6 @@ cameras = {"type":"FeatureCollection","features":[{"type":"Feature","geometry":{
 
 def list_cameras():
     for camera in cameras["features"]:
-        gcam = camera["geometry"]
+        gcam = camera["geometry"]["coordinates"]
         cam = camera["properties"]
-        yield {"description": cam["subtitle"], "geo": gcam["coordinates"], "id": cam["id"], "format": cam["description"]}
+        yield {"description": cam["subtitle"], "geo": {"lat": gcam[0], "lon": gcam[1]}, "id": cam["id"], "format": cam["description"]}

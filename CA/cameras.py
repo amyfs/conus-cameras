@@ -13,9 +13,10 @@ ns = {
 def list_cameras():
     for row in root[0].findall("ns1:Placemark",ns):
         xp = lambda x: row.find(f".//ns1:{x}",ns).text
+        co = row.find("./ns1:Point/ns1:coordinates",ns).text.split(",")
         yield {
             "description": xp("name"),
-            "geo": row.find("./ns1:Point/ns1:coordinates",ns).text.split(","),
+            "geo": {"lat": co[0], "lon": co[1]},
             "id": re.sub('[^A-Za-z0-9]+', '', xp("name").lower()),
             "format": xp("description")
         }

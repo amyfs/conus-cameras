@@ -186,4 +186,4 @@ cameras={"displayFieldName":"site_name","fieldAliases":{"OBJECTID":"OBJECTID","d
 def list_cameras():
     for camera in cameras["features"]:
         cam = camera["attributes"]
-        yield {"description": cam["site_name"], "geo": [cam["lat"],cam["long"]], "id": cam["OBJECTID"], "format": cam["image_url"]}
+        yield {"description": cam["site_name"], "geo": {"lat": cam["lat"], "lon": cam["long"]}, "id": cam["OBJECTID"], "format": cam["image_url"]}

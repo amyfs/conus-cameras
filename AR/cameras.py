@@ -133,4 +133,4 @@ def list_cameras():
     for camera in cameras["features"]:
         cam = camera["properties"]
         gcam = camera["geometry"]["coordinates"]
-        yield {"description": cam["name"], "geo": [gcam[1],gcam[0]], "id": cam["id"], "format": cam["hls_stream_protected"].replace("\\","")}
+        yield {"description": cam["name"], "geo": {"lat": gcam[0], "lon": gcam[1]}, "id": cam["id"], "format": cam["hls_stream_protected"].replace("\\","")}

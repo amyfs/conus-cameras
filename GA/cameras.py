@@ -2255,6 +2255,6 @@ cameras = {"features":[{"geometry":{"coordinates":["-84.260600","33.692992"],"ty
 
 def list_cameras():
     for camera in cameras["features"]:
-        gcam = camera["geometry"]
+        gcam = camera["geometry"]["coordinates"]
         cam = camera["properties"]
-        yield {"description": cam["location_description"], "geo": gcam["coordinates"], "id": cam["cctv_id"], "format": cam["url"]}
+        yield {"description": cam["location_description"], "geo": {"lat": gcam[0], "lon": gcam[1]},"id": cam["cctv_id"], "format": cam["url"]}

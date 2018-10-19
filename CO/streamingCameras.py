@@ -53,7 +53,7 @@ cameras = {"CameraDetails":{"Camera":[{"Source":"Courtesy of ITS","Name":"0.3 mi
 
 def list_cameras():
    for camera in cameras["CameraDetails"]["Camera"]:
-    obj = {"geo": [camera["Location"]["Latitude"], camera["Location"]["Longitude"]],}
+    obj = {"geo": {"lat": camera["Location"]["Latitude"], "lon": camera["Location"]["Longitude"]}}
     if "Source" in camera:
         obj["description"] = camera["Description"]
         obj["id"] = camera["CameraId"]

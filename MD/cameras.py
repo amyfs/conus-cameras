@@ -451,4 +451,4 @@ cameras = {"error":None,"data":[{"description":"I-895 N of Baltimore Harbor Tunn
 
 def list_cameras():
     for item in cameras["data"]:
-        yield {"description": item["description"], "geo": [item["lat"],item["lon"]], "id": item["id"], "format": "rtmp://{}:1935/rtplive/{}".format(item["cctvIp"],item["id"])}
+        yield {"description": item["description"], "geo": {"lat": item["lat"], "lon": item["lon"]}, "id": item["id"], "format": "rtmp://{}:1935/rtplive/{}".format(item["cctvIp"],item["id"])}

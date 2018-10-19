@@ -302,4 +302,4 @@ cameras = [{"id":1,"public":True,"name":"Mile 36.6 I-69 / Binford Blvd","lastUpd
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["name"], "geo": [camera["location"]["latitude"], camera["location"]["longitude"]], "id": camera["id"], "format": [i["url"] for i in camera["views"]]}
+        yield {"description": camera["name"], "geo": {"lat": camera["location"]["latitude"], "lon": camera["location"]["longitude"]}, "id": camera["id"], "format": [i["url"] for i in camera["views"]]}

@@ -1207,4 +1207,4 @@ cameras = [{"id":1,"public":True,"name":"NB @ Co Rd 60","lastUpdated":1537544114
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["name"], "geo": [camera["location"]["latitude"], camera["location"]["longitude"]], "id": camera["id"], "format": [i["url"] for i in camera["views"]]}
+        yield {"description": camera["name"], "geo": {"lat": camera["location"]["latitude"], "lon": camera["location"]["longitude"]}, "id": camera["id"], "format": [i["url"] for i in camera["views"]]}

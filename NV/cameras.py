@@ -13,7 +13,10 @@ def list_cameras():
     for row in root[0].findall("ns1:camera",ns):
         yield {
             "description": row.get("description"),
-            "geo": [i.text for i in row],
+            "geo": {
+                "lat": row.find("ns1:lat",ns).text, 
+                "lon": row.find("ns1:lon",ns).text
+            },
             "id": row.get("ID"),
             "format": row.get("CameraImageURL")
         }

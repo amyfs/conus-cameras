@@ -231,4 +231,4 @@ cameras = {"displayFieldName":"description","fieldAliases":{"oid":"oid","id":"id
 def list_cameras():
     for camera in cameras["features"]:
         cam = camera["attributes"]
-        yield {"description": cam["description"], "geo": [cam["latitude"],cam["longitude"]], "id": cam["name"], "format": cam["snapshot"]}
+        yield {"description": cam["description"], "geo": {"lat": cam["latitude"], "lon": cam["longitude"]}, "id": cam["name"], "format": cam["snapshot"]}

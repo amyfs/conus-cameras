@@ -1363,4 +1363,4 @@ def list_cameras():
         cam = camera["data"]
         gcam = camera["points"]
         geom = ["{:.9f}".format(i) for i in p(*gcam,inverse=True)]
-        yield {"description": cam["name"], "geo": geom, "id": cam["ident"], "format": [f"https://www.safetravelusa.com/sd/camera_images/{cam['ident']}/{i}/latest.jpg" for i in range(0,5)]}
+        yield {"description": cam["name"], "geo": {"lat": geom[1], "lon": geom[0]}, "id": cam["ident"], "format": [f"https://www.safetravelusa.com/sd/camera_images/{cam['ident']}/{i}/latest.jpg" for i in range(0,5)]}

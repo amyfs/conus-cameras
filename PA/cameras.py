@@ -923,7 +923,7 @@ cameras = { "count": 920,
 
 def list_cameras():
     for item in cameras["cams"]:
-        yield {"description": item["title"], "id": item["md5"], "format": item["src"], "geo": [item["start_lat"],item["start_lng"]]}
+        yield {"description": item["title"], "id": item["md5"], "format": item["src"], "geo": {"lat": item["start_lat"], "lon": item["start_lng"]}}
 
 def get_image(id):
     pass

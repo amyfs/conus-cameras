@@ -233,4 +233,4 @@ cameras = {"draw":1,"recordsTotal":232,"recordsFiltered":232,"data":[{"DT_RowId"
 
 def list_cameras():
     for item in cameras["data"]:
-        yield {"description": item["description1"], "geo": [item["latitude"],item["longitude"]], "id": item["DT_RowId"], "format": "https://mass511.com/map/Cctv/{}".format(item["DT_RowId"])}
+        yield {"description": item["description1"], "geo": {"lat": item["latitude"], "lon": item["longitude"]}, "id": item["DT_RowId"], "format": "https://mass511.com/map/Cctv/{}".format(item["DT_RowId"])}

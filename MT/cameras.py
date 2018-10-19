@@ -155,4 +155,4 @@ def pull_camera_urls(rwis_url):
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["description"], "geo": camera["geo"], "id": camera["id"], "format": pull_camera_urls(camera["url"])}
+        yield {"description": camera["description"], "geo": {"lat": camera["geo"][1], "lon": camera["geo"][0]}, "id": camera["id"], "format": pull_camera_urls(camera["url"])}

@@ -669,4 +669,4 @@ def get_camera_url(camid):
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["title"], "geo": [camera["latitude"],camera["longitude"]], "id": camera["id"], "format": get_camera_url(camera["id"])}
+        yield {"description": camera["title"], "geo": {"lat": camera["latitude"], "lon": camera["longitude"]}, "id": camera["id"], "format": get_camera_url(camera["id"])}

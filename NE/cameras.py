@@ -565,4 +565,4 @@ cameras = [{"lastUpdated":1537892961487,"views":[{"url":"http://www2.dor.state.n
 def list_cameras():
     for camera in cameras:
         gcam = camera["location"]
-        yield {"description": camera["name"], "geo": [gcam["latitude"],gcam["longitude"]], "id": camera["id"], "format": [i["url"] for i in camera["views"]]}
+        yield {"description": camera["name"], "geo": {"lat": gcam["latitude"],"lon": gcam["longitude"]}, "id": camera["id"], "format": [i["url"] for i in camera["views"]]}

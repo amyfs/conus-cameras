@@ -216,4 +216,4 @@ cameras = [{"image_file": "10_16_30_5.jpg", "x": "-949", "y": "2007", "label": "
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["label"], "geo": [camera["lat"],camera["lon"]], "id": camera["id"], "format": f"https://www.oktraffic.org/cameras/camimg.php?fname={camera['image_file']}&valid=1"}
+        yield {"description": camera["label"], "geo": {"lat": camera["lat"], "lon": camera["lon"]}, "id": camera["id"], "format": f"https://www.oktraffic.org/cameras/camimg.php?fname={camera['image_file']}&valid=1"}

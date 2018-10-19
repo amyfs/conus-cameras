@@ -140,4 +140,4 @@ def list_cameras():
         for i in ["","2","3","4","5","6"]:
             if cam[f"Description{i}"]:
                 urls.append(cam[f"FullPath{i}"])
-        yield {"description": cam["Description"], "geo": geom, "id": cam["OBJECTID"], "format": urls}
+        yield {"description": cam["Description"], "geo": {"lat": geom[0], "lon": geom[1]}, "id": cam["OBJECTID"], "format": urls}

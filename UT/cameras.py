@@ -11,9 +11,13 @@ root = tree.getroot()
 def list_cameras():
     for row in root[0].iterfind("ns1:Placemark",ns):
         xp = lambda x: row.find(f".//ns1:SimpleData[@name='{x}']",ns).text
+        geo = row.find("./ns1:Point/ns1:coordinates",ns).text.split(",")
         yield {
             "description": xp("DisplayName"),
-            "geo": row.find("./ns1:Point/ns1:coordinates",ns).text.split(","),
+            "geo": {
+                "lat": geo[1],
+                "lon": geo[0]
+            },
             "id": xp("IntId"),
             "format": xp("ImageUrl")
             }

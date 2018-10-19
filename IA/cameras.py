@@ -843,4 +843,4 @@ cameras = [{"id":59144070,"public":True,"name":"RWIS - US 218 MM 211 @ Plainfiel
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["name"], "geo": [camera["location"]["latitude"],camera["location"]["longitude"]], "id": camera["id"], "format": [i["url"] if i["type"] == "STILL_IMAGE" else i["videoPreviewUrl"] for i in camera["views"]]}
+        yield {"description": camera["name"], "geo": {"lat": camera["location"]["latitude"],"lon": camera["location"]["longitude"]}, "id": camera["id"], "format": [i["url"] if i["type"] == "STILL_IMAGE" else i["videoPreviewUrl"] for i in camera["views"]]}

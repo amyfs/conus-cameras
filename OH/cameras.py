@@ -484,4 +484,4 @@ cameras = [{"Provider":None,"Cameras":[{"Direction":"PTZ","SmallURL":"http://cmh
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["Description"], "geo": [camera["Latitude"],camera["Longitude"]], "id": camera["Id"], "format": [i["LargeURL"] if i["LargeURL"] else i["SmallURL"] for i in camera["Cameras"]]}
+        yield {"description": camera["Description"], "geo": {"lat": camera["Latitude"], "lon": camera["Longitude"]}, "id": camera["Id"], "format": [i["LargeURL"] if i["LargeURL"] else i["SmallURL"] for i in camera["Cameras"]]}

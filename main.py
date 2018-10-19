@@ -1,4 +1,3 @@
-import sys
 from AL import cameras as AL
 from AR import cameras as AR
 from AZ import cameras as AZ
@@ -45,14 +44,21 @@ from WI import cameras as WI
 from WV import cameras as WV
 from WY import cameras as WY
 
-def main():
-    print("id,lat,lon,description,format")
+import sqlite3,sys
+
+def data():
     for entry in [AL,AZ,CO,DE,GA,ID,IN,KY,MA,MD,MN,MS,NC,NE,NJ,NV,OH,OR,RI,SD,TN,UT,WV,AR,CA,CT,FL,IA,IL,KS,LA,MI,MO,MT,ND,newengland,NM,NY,OK,PA,SC,TX,VA,WI,WY]:
         sys.stderr.write(entry.__name__.split(".")[0])
         for camera in entry.list_cameras():
             if not isinstance(camera["format"],list):
                 camera["format"] = [camera["format"]]
-            print("{},{},{},{},{}".format(camera["id"],camera["geo"][0],camera["geo"][1],camera["description"],camera["format"]))
+            yield [camera["id"],camera["geo"][0],camera["geo"][1],camera["description"],str(camera["format"])]
 
+def main():
+    conn = sqlite3.connect("cameras.db")
+    c = conn.cursor()
+    c.executemany("insert into cameras values (?,?,?,?,?)",data())
+    conn.commit()
+    conn.close()
 if __name__ == "__main__":
     main()

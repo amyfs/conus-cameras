@@ -174,4 +174,4 @@ cameras = {"timestamp":"2018-10-02T15:35:50Z","timestampMS":"1538494550003","ver
 
 def list_cameras():
     for camera in cameras["videoCameras"]:
-        yield {"description": camera["title"], "geo": [camera["lat"],camera["lon"]], "id": camera["id"], "format": camera["urls"]["rtmp"]}
+        yield {"description": camera["title"], "geo": {"lat": camera["lat"], "lon": camera["lon"]}, "id": camera["id"], "format": camera["urls"]["m3u8"]}

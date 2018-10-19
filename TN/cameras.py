@@ -571,4 +571,4 @@ cameras={"reset":True,"hashcode":-1034125954,"actions":[{"action":1,"dataItem":{
 def list_cameras():
     for camera in cameras["actions"]:
         cam = camera["dataItem"]
-        yield {"description": cam["title"], "geo": [cam["coordinates"]["lat"],cam["coordinates"]["lng"]], "id": cam["id"], "format": cam["rtspVideoUrl"]}
+        yield {"description": cam["title"], "geo": {"lat": cam["coordinates"]["lat"], "lon": cam["coordinates"]["lng"]}, "id": cam["id"], "format": cam["rtspVideoUrl"]}

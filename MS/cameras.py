@@ -347,4 +347,4 @@ def pull_image_url(markerid):
 
 def list_cameras():
     for camera in cameras["d"]:
-        yield {"description": camera["tooltip"], "geo": [camera["lat"],camera["lon"]], "id": camera["markerid"], "format": pull_image_url(camera["markerid"])}
+        yield {"description": camera["tooltip"], "geo": {"lat": camera["lat"], "lon": camera["lon"]}, "id": camera["markerid"], "format": pull_image_url(camera["markerid"])}
