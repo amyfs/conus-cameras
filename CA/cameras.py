@@ -16,7 +16,7 @@ def list_cameras():
         co = row.find("./ns1:Point/ns1:coordinates",ns).text.split(",")
         yield {
             "description": xp("name"),
-            "geo": {"lat": co[0], "lon": co[1]},
+            "geo": {"lat": co[1], "lon": co[0]},
             "id": re.sub('[^A-Za-z0-9]+', '', xp("name").lower()),
             "format": xp("description")
         }

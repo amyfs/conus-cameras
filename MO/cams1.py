@@ -239,4 +239,4 @@ cameras = {"CameraArray":[
 
 def list_cameras():
     for camera in cameras["CameraArray"]:
-        yield {"description": camera["Description"], "geo": {"lon": camera["VERTICES"]["VERTEX_TYPE"]["Y"], "lat": camera["VERTICES"]["VERTEX_TYPE"]["X"]}, "id": camera["Id"], "format": camera["ImageName"]}
+        yield {"description": camera["Description"], "geo": {"lon": camera["VERTICES"]["VERTEX_TYPE"]["X"], "lat": camera["VERTICES"]["VERTEX_TYPE"]["Y"]}, "id": camera["Id"], "format": camera["ImageName"]}

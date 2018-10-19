@@ -3199,4 +3199,4 @@ cameras = [
 
 def list_cameras():
     for camera in cameras:
-        yield {"description": camera["location"], "geo": {"lon": camera["y"], "lat": camera["x"]}, "id": camera["rtmp"].split("/")[-1], "format": camera["html"]}
+        yield {"description": camera["location"], "geo": {"lon": camera["x"], "lat": camera["y"]}, "id": camera["rtmp"].split("/")[-1], "format": camera["html"]}

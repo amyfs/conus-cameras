@@ -794,4 +794,4 @@ cameras = {"objectIdFieldName":"OBJECTID","uniqueIdField":{"name":"OBJECTID","is
 def list_cameras():
     for camera in cameras["features"]:
         cam = camera["attributes"]
-        yield {"description": cam["CameraLocation"], "geo": {"lat": cam["x"], "lon": cam["y"]}, "id": cam["OBJECTID"], "format": cam["SnapShot"]}
+        yield {"description": cam["CameraLocation"], "geo": {"lat": cam["y"], "lon": cam["x"]}, "id": cam["OBJECTID"], "format": cam["SnapShot"]}

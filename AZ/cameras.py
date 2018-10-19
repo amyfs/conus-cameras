@@ -213,4 +213,4 @@ def list_cameras():
         gcam = camera["geometry"]
         desc = "{} {} {}".format(cam["DIR"],cam["HWY"],cam["LOCATION"])
         geom = ["{:.9f}".format(i) for i in p(gcam["x"],gcam["y"],inverse=True)]
-        yield {"description": desc, "geo": {"lat": geom[0], "lon": geom[1]}, "id": cam["OBJECTID"], "format": cam["URL"]}
+        yield {"description": desc, "geo": {"lat": geom[1], "lon": geom[0]}, "id": cam["OBJECTID"], "format": cam["URL"]}
