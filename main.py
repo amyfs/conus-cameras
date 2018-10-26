@@ -52,7 +52,7 @@ def data():
         for camera in entry.list_cameras():
             if not isinstance(camera["format"],list):
                 camera["format"] = [camera["format"]]
-            yield [camera["id"],camera["geo"][0],camera["geo"][1],camera["description"],str(camera["format"])]
+            yield [camera["id"],camera["geo"]["lat"],camera["geo"]["lon"],camera["description"],str(camera["format"])]
 
 def main():
     conn = sqlite3.connect("cameras.db")
